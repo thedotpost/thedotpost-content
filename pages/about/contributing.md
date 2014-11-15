@@ -13,4 +13,4 @@ Slug: about/contributing
 <p>If you are an expert but don't have the time to write, you can still help by reviewing drafts from other authors! <a href="mailto:contact@thedotpost.com">Contact us</a> to become a reviewer.</p>
 
 <h2>Building on top of <em>The dot Post</em></h2>
-<p>All our content is available on GitHub, so if you are a developer you can clone our repository and find an innovative way to bring it to a new audience, a new device or try any other hack that comes to mind ;)</p>
+<p>All our content is available on <a href="https://github.com/thedotpost/thedotpost-content">GitHub</a>, so if you are a developer you can clone our repository and find an innovative way to bring it to a new audience, a new device or try any other hack that comes to mind ;)</p>
