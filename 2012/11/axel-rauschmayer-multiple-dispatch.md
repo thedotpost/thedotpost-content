@@ -5,7 +5,7 @@ Video: https://www.youtube.com/watch?v=qyBopx4jkKY
 Slides: http://dl.2ality.com/2012/11/dotjs_rauschma.pdf
 Date: 2012-11-30
 Filmed: 2012-11-30
-Image: http://svay.com/photos/2012-11-30_dotjs/lighting-talks/2012-11-30_17-37-14.jpg
+Image: https://farm8.staticflickr.com/7464/15617245829_1cd825238c_k_d.jpg
 Tags: polymorphism
 Category: Theory
 Template: talk
