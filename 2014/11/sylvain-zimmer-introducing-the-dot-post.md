@@ -3,17 +3,17 @@ Date: 2014-11-17
 Category: Meta
 Author: sylvinus
 
-As we wrap up dotJS 2014, our 8th conference in 2 years, it is time to announce the second chapter of our adventure!
+As we wrap up <a href="http://www.dotjs.eu">dotJS 2014</a>, our 8th conference in 2 years, it is time to announce the second chapter of our adventure!
 
 The first one was primarily offline. We managed to gather incredible speakers and attendees in Paris and build a community of technical experts in fields ranging from JavaScript to Scalability, and will continue to do so!
 
-However, we felt something was missing online. We always published all the HD videos on YouTube, but we never had a proper home. Until now!
+However, we felt something was missing online. We always published all the HD videos on <a href="http://www.youtube.com/user/dotconferences">YouTube</a>, but we never had a proper home. Until now!
 
-We are proud to introduce today <strong><em>The dot Post</em></strong>, a new magazine by developers for developers built around 3 core principles: <strong>Openness</strong>, <strong>Independence</strong> and <strong>Quality</strong>.
+We are proud to introduce <strong><em>The dot Post</em></strong>, a new magazine by developers for developers built around 3 core values: <strong>Openness</strong>, <strong>Independence</strong> and <strong>Quality</strong>.
 
 These values have always been the driving force behind dotConferences, and our online presence will stay true to them.
 
-<em>The dot Post</em> is indeed a bold bet on <strong>openness</strong>. All our content will be licensed under Creative Commons and available in Markdown on GitHub. You read that right! We are also launching with an API, from day 1.
+<em>The dot Post</em> is indeed a bold bet on <strong>openness</strong>. All our content will be licensed under Creative Commons and available in Markdown on <a href="https://github.com/thedotpost/thedotpost-content">GitHub</a>. You read that right! We are also launching with an <a href="/about/api">API</a>, from day 1.
 
 Just like we will never accept any money to put a speaker on stage, we have also made sure <em>The dot Post</em> is free from external influences, to guarantee editorial <strong>independence</strong>. We will continue to strengthen the trust we have with you all, and making it easy for anyone to fork us is a great way to make sure we stay on course.
 
