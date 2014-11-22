@@ -11,3 +11,5 @@ Category: Theory
 Template: talk
 Conference: dotjs-2012
 Curator: sylvinus
+
+Alex posted an <a href="https://speakerdeck.com/rauschma/multiple-dispatch">updated version</a> of his slides in 2013.
