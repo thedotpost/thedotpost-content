@@ -1,6 +1,6 @@
 Title: Building Better Packages
 Author: codegangsta
-Summary: Jeremy explains how can we build Go packages that feel like they belong in the standard library.
+Summary: Jeremy explains how to build Go packages that feel like they belong in the standard library.
 Video: https://www.youtube.com/watch?v=cYgm2JJblCE
 Date: 2014-12-17
 Filmed: 2014-10-10
