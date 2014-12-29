@@ -66,7 +66,7 @@ if __name__ == "__main__":
   print "Conference: %s on %s" % (conference_data["Name"], conference_data["Date"])
 
   talk["Filmed"] = conference_data["Date"]
-  talk["Date"] = str(datetime.datetime.now().date())
+  talk["Date"] = str(datetime.datetime.now())[0:19]
 
   speaker["Name"] = raw_input("Speaker name? ")
 
@@ -96,12 +96,18 @@ if __name__ == "__main__":
       ]))
 
   talk["Video"] = google_first("site:youtube.com %s %s %s" % (conference, edition, speaker["Name"]))
-  print "Youtube URL: %s" % talk["Video"]
+  full_title = select_first(talk["Video"], "#eow-title").attrib["title"].encode("utf-8")
+
+  if "%s %s" % (conference, edition) not in full_title.lower():
+    talk["Video"] = raw_input("Youtube URL? ")
+    full_title = select_first(talk["Video"], "#eow-title").attrib["title"].encode("utf-8")
+  else:
+    print "Youtube URL: %s" % talk["Video"]
+
   assert "/watch?" in talk["Video"]
 
-  full_title = select_first(talk["Video"], "#eow-title").attrib["title"]
   talk["Title"] = " - ".join(full_title.split(" - ")[2:])
-  print "Talk title: %s" % talk["Title"]
+  print "Talk title: %s" % repr(talk["Title"])
 
   slug = slugify("%s %s" % (speaker["Name"], talk["Title"]))
   print "Slug: %s" % slug

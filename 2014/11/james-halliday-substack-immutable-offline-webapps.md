@@ -9,4 +9,4 @@ Category: Frontend
 Summary: James (aka substack) explains how to build webapps that use the browser cache to avoid relying on backends and give more control to users.
 Video: https://www.youtube.com/watch?v=J9_VaU4N3Rg
 Template: talk
-Date: 2014-12-29
+Date: 2014-12-29 08:00:00
