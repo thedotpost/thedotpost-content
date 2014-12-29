@@ -47,8 +47,9 @@ if __name__ == "__main__":
   }
   speaker = {}
 
-  conference = raw_input("Name of the conference? ").lower()
+  conference = raw_input("Name of the conference? ").lower().strip()
   assert conference
+  assert re.search("^[a-z]+$", conference)
 
   edition = int(raw_input("Year of the conference? [2014] ") or "2014")
   assert edition >= 2012
