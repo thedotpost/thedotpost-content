@@ -30,7 +30,7 @@ def google_url(search):
 
 def google_first(search):
   result = select_first(google_url(search), "h3.r a")
-  if len(result) == 0:
+  if result is None or len(result) == 0:
     return None
   href = result.attrib["href"]
   q = parse_qs(urlparse(href).query)["q"][0]
@@ -95,14 +95,16 @@ if __name__ == "__main__":
         "%s: %s" % (k, v) for k, v in speaker.items() if v.strip()
       ]))
 
-  talk["Video"] = google_first("site:youtube.com %s %s %s" % (conference, edition, speaker["Name"]))
-  full_title = select_first(talk["Video"], "#eow-title").attrib["title"].encode("utf-8")
+  video = google_first("site:youtube.com %s %s %s" % (conference, edition, speaker["Name"]))
+  if video:
+    full_title = select_first(video, "#eow-title").attrib["title"].encode("utf-8")
+    if "%s %s" % (conference, edition) in full_title.lower():
+      talk["Video"] = video
+      print "Youtube URL: %s" % talk["Video"]
 
-  if "%s %s" % (conference, edition) not in full_title.lower():
+  if not talk.get("Video"):
     talk["Video"] = raw_input("Youtube URL? ")
     full_title = select_first(talk["Video"], "#eow-title").attrib["title"].encode("utf-8")
-  else:
-    print "Youtube URL: %s" % talk["Video"]
 
   assert "/watch?" in talk["Video"]
 

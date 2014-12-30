@@ -91,7 +91,6 @@ Content-Type: application/json; charset=utf-8
 ```
 
 ```json
-
 [{
     "clouds": {
         "all": 40
@@ -436,7 +435,7 @@ You can tell me, that described patterns are not common. But.. I have to impleme
 
 I know that most of you will say "world is too hard and programming is too painful". I continue to upset you: there are at least a few examples of languages that solved this problem at least partially. Or at least working on solving it. Haskell and Scala type systems give you ability to build strong [high-level abstractions][haskell-book] or even custom [control flows][oz-style] to [deal](https://github.com/scala/async) with concurrency. An opposite Clojure is dynamically typed that encourage you to distil and share [high level][clojure-async] [abstraction][clojure-trans]. Rust has [channels](http://doc.rust-lang.org/std/comm/) and [generics](http://doc.rust-lang.org/rust.html#generic-functions).
 
-Make it works -> Make it beautiful -> Make it reusable.
+Make it work -> Make it beautiful -> Make it reusable.
 
 Now that the first step is done. What's next? Don't get me wrong, `go` is a perspective language: channels and goroutines are way much better than i.e. `pthread`, but should we really stop here?
 
