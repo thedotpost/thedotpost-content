@@ -10,8 +10,7 @@ Summary: Gregor shows how to achieve behaviours similar to event listeners in pu
 Slides: http://slides.pixelass.com/dotcss2014/
 Video: https://www.youtube.com/watch?v=hXTRISz5q_Q
 Template: talk
-Date: 2014-12-30 12:12:07
-Status: draft
+Date: 2014-12-31 12:12:07
 
 ## Functionality, what is that?
 You can imagine functionality as something similar to event listeners. We have different ways to simulate these events in pure CSS.
@@ -106,7 +105,7 @@ input[type="radio"]:checked + label{
 ## A pure CSS drawing app
 I created a pure CSS drawing app making use of a few of these events. You can see it [here](http://codepen.io/pixelass/pen/JojdgK).
 
-The basic app is built on radio-buttons (click event) and transition-delay (mouseenter & mouseleave).
+The basic app is built on radio buttons (click event) and transition-delay (mouseenter & mouseleave).
 
 What is actually happening in this app is the following:
 
