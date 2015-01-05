@@ -12,7 +12,7 @@ Video: https://www.youtube.com/watch?v=tGlZpGIRnUY
 Template: talk
 Date: 2015-01-05 11:33:21
 
-Two years ago I inherited jsdom, a project of breathtaking scope. In essence, it aims to simulate a browser in JavaScript, by implementing JavaScript versions of a wide variety of web standards (much more than just the DOM).
+Two years ago I inherited [jsdom](https://github.com/tmpvar/jsdom), a project of breathtaking scope. In essence, it aims to simulate a browser in JavaScript, by implementing JavaScript versions of a wide variety of web standards (much more than just the DOM).
 
 While maintaining jsdom for the last two years, and eventually bringing it to a 1.0 release, I learned an incredible amount about the web.
 
