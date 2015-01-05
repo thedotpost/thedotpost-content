@@ -20,6 +20,7 @@ def select_first_html(html, selector):
 
 
 def select_first(url, selector):
+  print "Fetching %s" % url
   html = requests.get(url).text
   return select_first_html(html, selector)
 
