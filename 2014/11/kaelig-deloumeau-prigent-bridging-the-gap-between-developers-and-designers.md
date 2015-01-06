@@ -9,4 +9,3 @@ Summary: Kaelig explains how a ubiquitous way of conversing about colours, typog
 Video: https://www.youtube.com/watch?v=ciG-A_1FyVg
 Template: talk
 Date: 2015-01-06 01:55:30
-Status: draft
