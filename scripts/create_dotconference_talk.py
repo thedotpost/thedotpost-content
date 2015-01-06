@@ -85,7 +85,7 @@ if __name__ == "__main__":
     speaker_github = google_first("site:github.com %s" % speaker["Name"])
 
     if speaker_github:
-      speaker_github = re.sub(".*/", "", speaker_github)
+      speaker["Github"] = re.sub(".*/", "", speaker_github)
 
     speaker["Twitter"] = raw_input("Speaker github username? [%s] " % speaker_github) or speaker_github
 
