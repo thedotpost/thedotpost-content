@@ -85,9 +85,9 @@ if __name__ == "__main__":
     speaker_github = google_first("site:github.com %s" % speaker["Name"])
 
     if speaker_github:
-      speaker["Github"] = re.sub(".*/", "", speaker_github)
+      speaker_github = re.sub(".*/", "", speaker_github)
 
-    speaker["Twitter"] = raw_input("Speaker github username? [%s] " % speaker_github) or speaker_github
+    speaker["Github"] = raw_input("Speaker github username? [%s] " % speaker_github) or speaker_github
 
     speaker["Oneliner"] = raw_input("Speaker oneliner? ")
 
@@ -98,10 +98,12 @@ if __name__ == "__main__":
 
   video = google_first("site:youtube.com %s %s %s" % (conference, edition, speaker["Name"]))
   if video:
-    full_title = select_first(video, "#eow-title").attrib["title"].encode("utf-8")
-    if "%s %s" % (conference, edition) in full_title.lower():
-      talk["Video"] = video
-      print "Youtube URL: %s" % talk["Video"]
+    elt_title = select_first(video, "#eow-title")
+    if elt_title:
+      full_title = elt_title.attrib["title"].encode("utf-8")
+      if "%s %s" % (conference, edition) in full_title.lower():
+        talk["Video"] = video
+        print "Youtube URL: %s" % talk["Video"]
 
   if not talk.get("Video"):
     talk["Video"] = raw_input("Youtube URL? ")
