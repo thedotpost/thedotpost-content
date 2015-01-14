@@ -11,6 +11,5 @@ Slides: http://soledadpenades.com/files/t/20141117_dotjs/
 Video: https://www.youtube.com/watch?v=Qb08pUWB2lc
 Template: talk
 Date: 2015-01-14 00:54:13
-Status: draft
 
 You can check the code and build the slides from this talk on [Soledad's Github](https://github.com/sole/slides-dotjs2014).
