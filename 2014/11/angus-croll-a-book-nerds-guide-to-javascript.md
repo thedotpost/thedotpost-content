@@ -12,4 +12,4 @@ Video: https://www.youtube.com/watch?v=uub1wARuSHQ
 Template: talk
 Date: 2015-01-15 00:52:38
 
-For more on the book: [If Hemingway Wrote JavaScript](anguscroll.com/hemingway).
+For more on the book: [If Hemingway Wrote JavaScript](http://anguscroll.com/hemingway).
