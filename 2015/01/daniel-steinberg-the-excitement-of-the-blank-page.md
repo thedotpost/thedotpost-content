@@ -1,5 +1,4 @@
 Title: The excitement of the blank page
-Status: draft
 Template: article
 Date: 2015-01-20
 Author: dimsumthinking
