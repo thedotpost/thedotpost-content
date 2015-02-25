@@ -52,7 +52,7 @@ if __name__ == "__main__":
   assert conference
   assert re.search("^[a-z]+$", conference)
 
-  edition = int(raw_input("Year of the conference? [2014] ") or "2014")
+  edition = int(raw_input("Year of the conference? [2015] ") or "2015")
   assert edition >= 2012
 
   talk["Conference"] = "%s-%s" % (conference, edition)
@@ -130,6 +130,10 @@ if __name__ == "__main__":
 
   webbrowser.open(conference_data["Photos"])
   talk["Image"] = raw_input("Photo URL? (On Flickr, copy Link Address of the Large image) ")
+
+  dirname = os.path.dirname(path)
+  if not os.path.isdir(dirname):
+    os.mkdir(dirname)
 
   with open("%s.md" % path, "w") as f:
     f.write("\n".join([
