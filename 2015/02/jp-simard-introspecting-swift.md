@@ -11,4 +11,3 @@ Slides: https://speakerdeck.com/player/68fb086ae63d457d9afa1fbe72547080
 Video: https://www.youtube.com/watch?v=YXZODVMLW1w
 Template: talk
 Date: 2015-03-09 01:15:17
-Status: draft
