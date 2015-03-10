@@ -142,4 +142,4 @@ if __name__ == "__main__":
 
   print "Successfully written Markdown files! Testing in your browser in 5 seconds..."
   time.sleep(5)
-  webbrowser.open("http://localhost:8000/%s" % path)
+  webbrowser.open("http://local.thedotpost.com:8000/%s" % path)
