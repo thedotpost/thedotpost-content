@@ -10,4 +10,3 @@ Summary: Romain takes us through Twitter's experience making their latest SDK, F
 Video: https://www.youtube.com/watch?v=t4ZnhOzod9A
 Template: talk
 Date: 2015-03-09 21:07:50
-Status: draft
