@@ -11,4 +11,3 @@ Slides: https://www.dropbox.com/s/1vk5cjjwiayqt67/Tuning-Node-Joe-McCann-dotJS-E
 Video: https://www.youtube.com/watch?v=FXyM1yrtloc
 Template: talk
 Date: 2015-04-04 14:51:31
-Status: draft
