@@ -8,7 +8,7 @@ Curator: sylvinus
 Category: Backend
 Summary: Chris does a post-mortem of a recent outage at GoCardless during a PostgreSQL schema change, and gives practical advice on how to avoid it happening to you.
 Slides: http://speakerdeck.com/player/8942250345824edcbfa1beeb4a1cebc6
-Video: https://www.youtube.com/watch?v=aBjPjYfm4wk
+Video: https://www.youtube.com/watch?v=Nofoubye6Rg
 Template: talk
 Date: 2015-06-25 14:23:21
 Status: draft

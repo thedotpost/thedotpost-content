@@ -8,7 +8,7 @@ Category: Backend
 Summary: Paul delves into some of the challenges involved in building a distributed database specifically for time series data. High write throughput, even higher read throughput, large range scans of data to answer queries, and large range deletes all conspire to make time series data both the worst and best use case to build for in distributed databases.
 Tags: timeseries, databases, influxdb
 Slides: http://speakerdeck.com/player/efb10631fa58468ebd2364858b62a70c
-Video: https://www.youtube.com/watch?v=B0Apg5NpmYA
+Video: https://www.youtube.com/watch?v=2Al5OWhpCu0
 Template: talk
 Date: 2015-06-25 11:01:49
 Status: draft

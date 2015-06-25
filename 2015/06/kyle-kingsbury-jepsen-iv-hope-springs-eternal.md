@@ -7,11 +7,10 @@ Title: Jepsen IV: Hope Springs Eternal
 Curator: sylvinus
 Summary: Distributed systems are hard to get right. In this talk, Kyle explores consistency and data loss in MongoDB, Elasticsearch and Aerospike, uncovering surprising anomalies (and improvements) over previous versions.
 Slides: https://aphyr.com/media/talks/2015/dotscale.pdf
-Video: https://www.youtube.com/watch?v=tCNYtwRBUAs
+Video: https://www.youtube.com/watch?v=T5c81QJ-uRo
 Category: Backend
 Template: talk
-Date: 2015-06-25 10:43:13
-Status: draft
+Date: 2015-06-25 14:00:00
 
 For more, check out the "Call me maybe" series on Kyle's blog:
 

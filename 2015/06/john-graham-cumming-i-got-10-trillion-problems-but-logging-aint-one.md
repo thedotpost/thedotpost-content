@@ -8,7 +8,6 @@ Curator: sylvinus
 Category: Backend
 Summary: John explains how CloudFlare uses NGINX, LuaJIT, Cap’n Proto and Apache Kafka to extract a signal from 10 trillion log lines each month, in order to detect attacks and provide rolled up statistics.
 Slides: https://github.com/cloudflare/jgc-talks/blob/master/dotScale/2015/10trillion.pdf
-Video: https://www.youtube.com/watch?v=WTBwKVD28lc
+Video: https://www.youtube.com/watch?v=LA-gNoxSLCE
 Template: talk
-Date: 2015-06-25 13:31:14
-Status: draft
+Date: 2015-06-25 13:00:00

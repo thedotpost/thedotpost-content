@@ -6,10 +6,9 @@ Title: Convergent Replicated Data Types
 Curator: sylvinus
 Category: Backend
 Summary: Convergent Replicated Data Types offer a principled approach to eventually consistent data modelling, with defined data types always converging to single correct values. CRDTs are one of the key building blocks of a distributed system, enabling strong eventual consistency and highly available, low latency applications.
-Video: https://www.youtube.com/watch?v=eeZUWJDWCNE
+Video: https://www.youtube.com/watch?v=9ivKQ99mpHw
 Template: talk
-Date: 2015-06-25 14:03:11
-Status: draft
+Date: 2015-06-25 12:00:00
 
 # Convergent Replicated Data Types in Four Minutes
 
