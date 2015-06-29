@@ -10,8 +10,7 @@ Tags: timeseries, databases, influxdb
 Slides: http://speakerdeck.com/player/efb10631fa58468ebd2364858b62a70c
 Video: https://www.youtube.com/watch?v=2Al5OWhpCu0
 Template: talk
-Date: 2015-06-25 11:01:49
-Status: draft
+Date: 2015-06-29 15:00:49
 
 Further reading:
 

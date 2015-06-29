@@ -10,8 +10,7 @@ Summary: Since iOS 8, dynamic linking is also available on Apple’s mobile plat
 Slides: http://speakerdeck.com/player/d415245b46c24659a13a0e992da6ba93
 Video: https://www.youtube.com/watch?v=phb9gMV2Cn8
 Template: talk
-Date: 2015-06-29 01:26:57
-Status: draft
+Date: 2015-06-29 11:26:57
 
 Some related links for further reading:
 
