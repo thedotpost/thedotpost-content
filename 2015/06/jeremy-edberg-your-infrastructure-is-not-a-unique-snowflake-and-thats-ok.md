@@ -13,4 +13,4 @@ Date: 2015-07-01 11:42:58
 
 This talk, also referred to as "Microservices 101", gets into the details of how to build a strong microservices architecture and platform and some of the pitfalls to watch out for.
 
-You can read more on [CloudNative blog](https://cloudnative.io/blog/2015/07/your-infrastructure-is-not-a-unique-snowflake-and-thats-ok/), where Jeremy is a co-founder.
+You can read more on the [CloudNative blog](https://cloudnative.io/blog/2015/07/your-infrastructure-is-not-a-unique-snowflake-and-thats-ok/), where Jeremy is a co-founder.
