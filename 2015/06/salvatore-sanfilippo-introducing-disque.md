@@ -10,5 +10,4 @@ Summary: Salvatore introduces a new open source message broker with a simple API
 Slides: http://antirez.com/misc/DotScale2015.pdf
 Video: https://www.youtube.com/watch?v=GRuFG7QVvCY
 Template: talk
-Date: 2015-06-29 01:15:11
-Status: draft
+Date: 2015-07-02 08:15:11
