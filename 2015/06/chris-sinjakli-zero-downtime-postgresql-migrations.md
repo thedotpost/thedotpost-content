@@ -13,3 +13,5 @@ Template: talk
 Date: 2015-07-08 10:00:00
 
 Further reading: [Blog post from GoCardless](https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/), with a few extra tips.
+
+*Speaker note: At 2:00 I start my example off wrong. The example only uses a `payments` table, not a `customers` one.*
