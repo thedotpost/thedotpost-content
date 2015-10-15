@@ -111,7 +111,7 @@ if __name__ == "__main__":
 
   assert "/watch?" in talk["Video"]
 
-  talk["Title"] = " - ".join(full_title.split(" - ")[2:])
+  talk["Title"] = unicode(" - ".join(full_title.split(" - ")[2:]))
   print "Talk title: %s" % repr(talk["Title"])
 
   slug = slugify("%s %s" % (speaker["Name"], talk["Title"]))
