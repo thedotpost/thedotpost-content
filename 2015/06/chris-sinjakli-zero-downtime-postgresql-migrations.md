@@ -10,7 +10,8 @@ Summary: Chris does a post-mortem of a recent outage at GoCardless during a Post
 Slides: http://speakerdeck.com/player/8942250345824edcbfa1beeb4a1cebc6
 Video: https://www.youtube.com/watch?v=Nofoubye6Rg
 Template: talk
-Date: 2015-06-25 14:23:21
-Status: draft
+Date: 2015-07-08 10:00:00
 
 Further reading: [Blog post from GoCardless](https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/), with a few extra tips.
+
+*Speaker note: At 2:00 I start my example off wrong. The example only uses a `payments` table, not a `customers` one.*

@@ -10,5 +10,4 @@ Summary: Mario explores the integration of Docker inside IDEs and introduces a p
 Slides: http://www.slideshare.net/slideshow/embed_code/key/eVm0FP9d7t4alz
 Video: https://www.youtube.com/watch?v=f2KBxqkS69c
 Template: talk
-Date: 2015-06-29 00:59:27
-Status: draft
+Date: 2015-10-14 00:59:27
