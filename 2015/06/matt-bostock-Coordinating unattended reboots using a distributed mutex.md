@@ -4,7 +4,7 @@ Author: mattbostock
 Image: https://farm1.staticflickr.com/375/18516849469_1cc976b093_k_d.jpg
 Title: Coordinating unattended reboots using a distributed mutex
 Curator: sylvinus
-Summary: Matt explains how GOV.UK borrowed an idea from CoreOS' reboot mechanism and are using etcd-backed distributed mutex to orchestrate unattended reboots across it's Ubuntu server estate to apply essential security updates.
+Summary: Matt explains how GOV.UK borrowed an idea from CoreOS' reboot mechanism and are using etcd-backed distributed mutex to orchestrate unattended reboots across their Ubuntu server estate to apply essential security updates.
 Slides: http://www.slideshare.net/slideshow/embed_code/key/xLYEPOJ1jg5Yu6
 Category: Backend
 Video: https://www.youtube.com/watch?v=w7o9xNyZCQo
