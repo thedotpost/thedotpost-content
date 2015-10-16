@@ -14,5 +14,9 @@ Status: draft
 
 
 The open source Puppet module which is used at <a href="https://www.gov.uk/"><span class="s2">GOV.UK</span></a> to coordinate unattended reboots on Ubuntu can be found on <a href="https://github.com/gds-operations/puppet-unattended_reboot"><span class="s2">GitHub</span></a> and on the <a href="https://forge.puppetlabs.com/gdsoperations/unattended_reboot"><span class="s2">Puppet Forge</span></a>. Contributions are very welcome and encouraged. <br></br>
-To understand more about the Raft consensus algorithm, I recommend following the <a href="http://thesecretlivesofdata.com/raft/"><span class="s2">visualisation</span></a> by <a href="https://github.com/benbjohnson"><span class="s2">Ben Johnson</span></a> and reading the <a href="https://raftconsensus.github.io/"><span class="s2">Raft paper <br></br>
+
+
+To understand more about the Raft consensus algorithm, I recommend following the <a href="http://thesecretlivesofdata.com/raft/"><span class="s2">visualisation</span></a> by <a href="https://github.com/benbjohnson"><span class="s2">Ben Johnson</span></a> and reading the <a href="https://raftconsensus.github.io/"><span class="s2">Raft paper</a>. <br></br>
+
+
 You can find out more about engineering at <a href="https://www.gov.uk/"><span class="s2">GOV.UK</span></a> on the <a href="https://gdstechnology.blog.gov.uk/"><span class="s2">GDS Technology blog</span></a> and also at the <a href="http://gds-operations.github.io/"><span class="s2">GDS Operations open source</span></a> web site.
