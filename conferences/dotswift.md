@@ -1,3 +1,3 @@
 Name: dotSwift
-Next: dotswift-2015
+Next: dotswift-2016
 Oneliner: The first Swift conference worldwide
