@@ -1,3 +1,3 @@
 Name: dotScale
-Next: dotscale-2015
+Next: dotscale-2016
 Oneliner: The European Tech Conference on Scalability
