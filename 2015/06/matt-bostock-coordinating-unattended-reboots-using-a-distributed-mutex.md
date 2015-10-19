@@ -9,7 +9,7 @@ Slides: http://www.slideshare.net/slideshow/embed_code/key/xLYEPOJ1jg5Yu6
 Category: Backend
 Video: https://www.youtube.com/watch?v=w7o9xNyZCQo
 Template: talk
-Date: 2015-10-15 17:52:43
+Date: 2015-10-19 10:52:43
 
 
 The open source Puppet module which is used at <a href="https://www.gov.uk/"><span class="s2">GOV.UK</span></a> to coordinate unattended reboots on Ubuntu can be found on <a href="https://github.com/gds-operations/puppet-unattended_reboot"><span class="s2">GitHub</span></a> and on the <a href="https://forge.puppetlabs.com/gdsoperations/unattended_reboot"><span class="s2">Puppet Forge</span></a>. Contributions are very welcome and encouraged. <br>
