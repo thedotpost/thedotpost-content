@@ -1,7 +1,7 @@
 Conference: dotscale-2015
 Tags: ClusterManagement
 Filmed: 2015-06-08
-Author: [None]
+Author: John Wilkes
 Image: https://farm1.staticflickr.com/433/18516528538_31688660db_k_d.jpg
 Title: Cluster management at Google with Borg
 Curator: sylvinus
