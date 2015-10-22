@@ -3,6 +3,7 @@ Tags: ClusterManagement
 Filmed: 2015-06-08
 Author: [None]
 Image: https://farm1.staticflickr.com/433/18516528538_31688660db_k_d.jpg
+Title: Cluster management at Google with Borg
 Curator: sylvinus
 Category: Backend
 Video: https://www.youtube.com/watch?v=wy3L7XUq-g0
