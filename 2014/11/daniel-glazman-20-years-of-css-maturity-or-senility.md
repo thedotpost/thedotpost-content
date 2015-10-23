@@ -6,6 +6,7 @@ Image: https://farm8.staticflickr.com/7510/15822428702_514a6fa2bc_k_d.jpg
 Title: 20 years of CSS maturity or senility
 Curator: sylvinus
 Category: Frontend
+Slides: http://disruptive-innovations.com/zoo/slides/20141114-dotCSS/dotCSS2014.pdf
 Summary: Daniel explains his 20 years of experience over the evolution of CSS
 Video: https://www.youtube.com/watch?v=H9D4K8PrjhA
 Template: talk
