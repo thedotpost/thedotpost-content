@@ -10,3 +10,4 @@ Summary: Daniel explains his 20 years of experience over the evolution of CSS
 Video: https://www.youtube.com/watch?v=H9D4K8PrjhA
 Template: talk
 Date: 2015-10-23 11:27:25
+Status: draft
