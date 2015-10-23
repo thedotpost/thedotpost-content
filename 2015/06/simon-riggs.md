@@ -9,3 +9,4 @@ Summary: Simon talks about his time working with Databases and the importance of
 Video: https://www.youtube.com/watch?v=8wligryH_gY
 Template: talk
 Date: 2015-10-23 14:58:14
+Status: draft
