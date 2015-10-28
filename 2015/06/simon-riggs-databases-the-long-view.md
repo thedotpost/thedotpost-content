@@ -1,7 +1,7 @@
 Conference: dotscale-2015
 Tags: Databases, SQL
 Filmed: 2015-06-08
-Author: simon_riggs
+Author: simonriggs
 Image: https://farm1.staticflickr.com/520/18702353092_bc49c0d82c_k_d.jpg
 Title: Databases - The Long View
 Curator: sylvinus
