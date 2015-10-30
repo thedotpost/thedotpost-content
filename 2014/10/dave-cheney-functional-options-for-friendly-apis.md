@@ -11,3 +11,4 @@ Slides: http://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
 Video: https://www.youtube.com/watch?v=24lFtGHWxAQ
 Template: talk
 Date: 2015-10-30 10:41:07
+Status: draft
