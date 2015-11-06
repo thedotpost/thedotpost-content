@@ -10,4 +10,4 @@ Summary: Dave explains how functional options let us write Go APIs that can grow
 Slides: http://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
 Video: https://www.youtube.com/watch?v=24lFtGHWxAQ
 Template: talk
-Date: 2015-11-06 11:41:07
+Date: 2015-11-06 12:41:07
