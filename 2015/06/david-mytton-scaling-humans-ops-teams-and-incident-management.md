@@ -11,4 +11,3 @@ Slides: http://www.slideshare.net/slideshow/embed_code/key/p2t8CxPhXWMZwv
 Video: https://www.youtube.com/watch?v=4qGcTOQRvEU
 Template: talk
 Date: 2015-11-06 14:43:29
-Status: draft
