@@ -11,4 +11,4 @@ systems is a barrier to entry for new contributors and a large source of softwar
 Can we build tools that help developers build mental models and understand unfamiliar complex codebases?
 Video: https://www.youtube.com/watch?v=2T6Prj82adg
 Template: talk
-Date: 2015-11-30 16:08:15
+Date: 2015-11-30 16:15:15
