@@ -9,4 +9,4 @@ Summary: Francesc discusses the feasibility and practicality of functional progr
 Slides: http://speakerdeck.com/player/0feaedadd2ed4ec280698ea13405092f
 Video: https://www.youtube.com/watch?v=ouyHp2nJl0I
 Template: talk
-Date: 2015-11-30 15:23:40
+Date: 2015-12-10 15:20:40
