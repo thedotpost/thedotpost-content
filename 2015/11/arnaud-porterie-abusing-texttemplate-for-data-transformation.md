@@ -2,7 +2,7 @@ Conference: dotgo-2015
 Tags: golang
 Filmed: 2015-11-09
 Author: icecrime
-Image: https://farm6.staticflickr.com/5665/22580299519_a2469c3408_k_d.jpg
+Image: https://farm1.staticflickr.com/618/22351306443_7188d86fd4_k_d.jpg
 Title: Abusing text/template for data transformation
 Curator: sylvinus
 Category: Backend
@@ -13,4 +13,5 @@ Template: talk
 Date: 2015-12-09 16:51:40
 Status: draft
 
-Open source project: github.com/icecrime/vossibility-collector
+
+For more, check out [vossibility-collector on GitHub](http://github.com/icecrime/vossibility-collector).
