@@ -11,7 +11,6 @@ Slides: http://www.slideshare.net/slideshow/embed_code/key/Aw3A8JsMSYFXzP
 Video: https://www.youtube.com/watch?v=lhDxWVACMbI
 Template: talk
 Date: 2015-12-09 16:51:40
-Status: draft
 
 
 For more, check out [vossibility-collector on GitHub](http://github.com/icecrime/vossibility-collector).
