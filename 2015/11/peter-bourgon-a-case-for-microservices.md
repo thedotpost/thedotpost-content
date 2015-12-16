@@ -10,5 +10,4 @@ Summary: Go has well-known downsides, but Go programmers know that they enable h
 Slides: http://peter.bourgon.org/a-case-for-microservices
 Video: https://www.youtube.com/watch?v=Vd4DE6D6o94
 Template: talk
-Date: 2015-12-01 12:18:11
-Status: draft
+Date: 2015-12-15 16:18:11

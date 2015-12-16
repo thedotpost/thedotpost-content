@@ -10,7 +10,7 @@ Summary: This lightning talk introduces the idea of using the standard Go templa
 Slides: http://www.slideshare.net/slideshow/embed_code/key/Aw3A8JsMSYFXzP
 Video: https://www.youtube.com/watch?v=lhDxWVACMbI
 Template: talk
-Date: 2015-12-15 16:51:40
+Date: 2015-12-14 20:51:40
 
 
 For more, check out [vossibility-collector on GitHub](http://github.com/icecrime/vossibility-collector).
