@@ -10,5 +10,4 @@ Summary: gopy is a Go command, modeled after the gomobile one. In the same fashi
 Slides: https://github.com/sbinet/talks/tree/master/2015/20151109-gopy-dotgo
 Video: https://www.youtube.com/watch?v=od0-9dgEP68
 Template: talk
-Date: 2015-12-11 15:45:29
-Status: draft
+Date: 2015-12-18 15:45:29

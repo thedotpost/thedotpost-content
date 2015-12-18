@@ -10,5 +10,4 @@ Summary: If you are writing network applications you should be encrypting the li
 Slides: http://www.slideshare.net/slideshow/embed_code/key/5hziP2R1jcmA96
 Video: https://www.youtube.com/watch?v=uO0cci9bglQ
 Template: talk
-Date: 2015-12-10 15:51:40
-Status: draft
+Date: 2015-12-18 14:51:40

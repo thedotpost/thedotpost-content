@@ -10,5 +10,4 @@ Summary: We present a new compiler to compile programs written in the Go languag
 Slides: http://www.slideshare.net/slideshow/embed_code/key/4jij8UA7BkXCqE
 Video: https://www.youtube.com/watch?v=jEoIiNJTQWE
 Template: talk
-Date: 2015-12-10 16:22:44
-Status: draft
+Date: 2015-12-18 16:22:44
