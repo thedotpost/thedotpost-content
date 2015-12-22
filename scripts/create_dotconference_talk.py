@@ -4,6 +4,7 @@ import os
 import time
 import re
 import urllib
+import shutil
 from urlparse import urlparse, parse_qs
 from lxml.cssselect import CSSSelector
 from lxml.html import fromstring
@@ -95,6 +96,13 @@ if __name__ == "__main__":
       f.write("\n".join([
         "%s: %s" % (k, v) for k, v in speaker.items() if v.strip()
       ]))
+
+    # Try to import the image from the dot website folder
+    dest_image = "contributors/images/%s.png" % speaker_slug
+    web_image = "../dot-temp-2014/public/images/speakers/%s.png" % speaker["Name"].lower().replace(" ", "-")
+    if not os.path.isfile(dest_image) and os.path.isfile(web_image):
+      shutil.copy(web_image, dest_image)
+      print "Successfully copied speaker image %s to %s" % (web_image, dest_image)
 
   video = google_first("site:youtube.com %s %s %s" % (conference, edition, speaker["Name"]))
   if video:
