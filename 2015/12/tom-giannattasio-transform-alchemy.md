@@ -11,3 +11,4 @@ Slides: http://attasi.com/transforms/
 Video: https://www.youtube.com/watch?v=4KLX9a9p-Tk
 Template: talk
 Date: 2016-01-04 17:24:42
+Status: draft
