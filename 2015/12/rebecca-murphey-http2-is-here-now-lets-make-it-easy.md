@@ -12,3 +12,7 @@ Video: https://www.youtube.com/watch?v=7KmR-JD3dGo
 Template: talk
 Date: 2016-01-06 10:32:49
 Status: Draft
+
+Additional links: https://pinboard.in/u:rmurphey/t:http2/
+My article on building for HTTP/2: http://rmurphey.com/blog/2015/11/25/building-for-http2 
+A tool for visualizing HTTP/2: http://rmurphey.com/blog/2015/11/28/chrome-http2-log-parser 
