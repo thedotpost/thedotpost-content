@@ -6,7 +6,7 @@ Image: http://i.imgur.com/81s4WKl.jpg?1
 Title: The whole future declared in a var
 Curator: sylvinus
 Category: Frontend
-Summary: Reactive programming is a paradigm centered on one idea: to specify the dynamic behavior of a variable only at the declaration of that variable. The benefits of this are declarative programming and separation of concerns. In this talk we will explore Reactive programming in JavaScript.
+Summary: Andre explores reactive programming, a paradigm centered on one idea: specifying the dynamic behavior of a variable only at the declaration of that variable. The benefits of this approach are the use of declarative programming and a better separation of concerns.
 Slides: http://speakerdeck.com/player/d17d497a0f3b4afebfa245f9679676ed
 Video: https://www.youtube.com/watch?v=BfZpr0USIi4
 Template: talk
