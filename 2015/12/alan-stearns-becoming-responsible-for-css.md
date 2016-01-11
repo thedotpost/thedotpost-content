@@ -6,7 +6,7 @@ Image: http://i.imgur.com/4cVmRDK.jpg?1
 Title: Becoming Responsible for CSS
 Curator: sylvinus
 Category: Frontend
-Summary: Alan explains us how to help the CSS Working Group create the future of CSS - Speak up about your own work, Shout when things go wrong, and help us Script our way to better CSS.
+Summary: Alan tells us how to help the CSS Working Group create the future of CSS: speak up about your own work, shout when things go wrong, and help us script our way to better CSS.
 Slides: http://slides.com/alanstearns/deck#/
 Video: https://www.youtube.com/watch?v=4ggNcqdwT-Y
 Template: talk
