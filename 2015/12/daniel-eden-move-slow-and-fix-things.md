@@ -1,7 +1,7 @@
 Conference: dotcss-2015
 Tags: css
 Filmed: 2015-12-04
-Author: _dte
+Author: danieleden
 Image: http://i.imgur.com/WAaDIaN.jpg?1
 Title: Move Slow and Fix Things
 Curator: sylvinus
