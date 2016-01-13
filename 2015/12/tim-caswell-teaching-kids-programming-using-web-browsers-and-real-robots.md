@@ -11,7 +11,6 @@ Slides: https://gist.github.com/creationix/507719a418be365c7631
 Video: https://www.youtube.com/watch?v=e6BEMQNyiRY
 Template: talk
 Date: 2016-01-08 11:42:19
-Status: Draft
 
 Tim explains:
 

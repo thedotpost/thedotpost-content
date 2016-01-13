@@ -11,7 +11,6 @@ Slides: http://slides.com/alanstearns/deck#/
 Video: https://www.youtube.com/watch?v=4ggNcqdwT-Y
 Template: talk
 Date: 2016-01-11 14:25:50
-Status: draft
 
 Additional reads:
 - [Discourse board on future web tech ideas]( http://discourse.wicg.io/)
