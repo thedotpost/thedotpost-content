@@ -2,7 +2,7 @@ Conference: dotcss-2015
 Tags: CSS, PostCSS
 Filmed: 2015-12-04
 Author: andreysitnik
-Image: https://farm1.staticflickr.com/683/23575466346_e11ebd7d2c_k_d.jpg
+Image: http://i.imgur.com/GZWx9w7.jpg?1
 Title: Fix Global CSS with PostCSS
 Curator: sylvinus
 Category: Frontend
@@ -15,13 +15,9 @@ Status: draft
 
 Additional reads: </br>
 
-Keynotes: http://ai.github.io/postcss-isolation/
-
-Links:
-
-1. Per file transformations: https://github.com/postcss/postcss-use
-2. Selectors isolcation: https://github.com/outpunk/postcss-modules
-3. Local reset:https://github.com/maximkoretskiy/postcss-autoreset
-4. Properties isolations by `all: inital`: https://github.com/cssnext/postcss-cssnext
-4. Container’s media queries: https://github.com/ausi/cq-prolyfill
+1. [Per file transformation](https://github.com/postcss/postcss-use)
+2. [Selectors isolcation](https://github.com/outpunk/postcss-modules)
+3. [Local reset](https://github.com/maximkoretskiy/postcss-autoreset)
+4. [Properties isolations by `all: inital`]( https://github.com/cssnext/postcss-cssnext)
+4. [Container’s media queries](https://github.com/ausi/cq-prolyfill)
 
