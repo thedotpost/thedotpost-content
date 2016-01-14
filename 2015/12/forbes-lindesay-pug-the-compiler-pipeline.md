@@ -11,4 +11,3 @@ Video: https://www.youtube.com/watch?v=Tr-Sqz3jAKg
 Template: talk
 Date: 2016-01-07 14:37:37
 Summary: From Lexer to Code-Gen, Forbes takes us on a deep dive of the compiler pipeline of the templating language Pug (formerly Jade).
-Status: draft

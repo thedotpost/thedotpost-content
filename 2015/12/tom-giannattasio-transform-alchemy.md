@@ -10,5 +10,7 @@ Summary: The transform is one of the most powerful CSS properties, but also one 
 Slides: http://attasi.com/transforms/
 Video: https://www.youtube.com/watch?v=4KLX9a9p-Tk
 Template: talk
-Date: 2016-01-04 17:24:42
-Status: draft
+Date: 2016-01-14 16:24:42
+
+Additional Reads: </br>
+Article that Tom wrote on advanced transforms: [Beercamp experiment with css3d](http://www.smashingmagazine.com/2012/04/beercamp-experiment-with-css3d/)
