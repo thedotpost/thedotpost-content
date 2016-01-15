@@ -10,8 +10,7 @@ Summary: In this short talk, Johannes explains how you can easily generate Javas
 Slides: http://www.slideshare.net/slideshow/embed_code/key/J73sV7m7ICfOSd
 Video: https://www.youtube.com/watch?v=RzZRdqZp6Oo
 Template: talk
-Date: 2016-01-06 11:33:03
-Status: Draft
+Date: 2016-01-15 16:20:03
 
 Johannes walks us through the steps you need to take starting with a REST-API (example Spring Boot) to the Swagger-specification, then calling Swagger-Codegen to generate the client SDK.
 

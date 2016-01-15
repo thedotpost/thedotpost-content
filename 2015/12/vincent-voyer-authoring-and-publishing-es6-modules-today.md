@@ -10,8 +10,7 @@ Summary: You want to do some ES 2015 before its 2016 but you are afraid: will th
 Slides: http://slides.com/vvo/authoring-and-publishing-es6-modules-today-dotjs-2015#/
 Video: https://www.youtube.com/watch?v=UJCJ5auXh7o
 Template: talk
-Date: 2016-01-12 11:01:45
-Status: draft
+Date: 2016-01-15 16:30:45
 
 Additional reads:</br>
 We are all starting to play with ES6 in our applications and it works well, just plug babel and webpack or browserify and you are good to go.
