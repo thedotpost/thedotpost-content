@@ -10,7 +10,6 @@ Summary: CSS optimisation has come a long way. In this short presentation, Ben t
 Slides: http://slides.com/beneb/deck#/
 Video: https://www.youtube.com/watch?v=j-ols__895M
 Template: talk
-Date: 2016-01-05 15:01:13
-Status: draft
+Date: 2016-01-19 09:01:13
 
 For more, check out [cssnano on GitHub](https://github.com/ben-eb/cssnano)
