@@ -6,7 +6,7 @@ Image: http://i.imgur.com/GZWx9w7.jpg?1
 Title: Fix Global CSS with PostCSS
 Curator: sylvinus
 Category: Frontend
-Summary: The Componentization of the Web is one of the main 2015/2016 trends. Andrey Sitnik explains how to use power of PostCSS to make isolated components without global reset and conflicts between each other.
+Summary: The Componentization of the Web is one of the main 2015/2016 trends. Andrey explains how to use the power of PostCSS to make isolated components without a global reset and avoid conflicts between them.
 Slides: http://ai.github.io/postcss-isolation/
 Video: https://www.youtube.com/watch?v=cGnlKFtAb64
 Template: talk
