@@ -10,5 +10,4 @@ Summary: CSS has focused a lot on layout issues and less on APIs or expanding it
 Slides: http://disruptive-innovations.com/zoo/slides/20151204-dotCSS/dotCSS2015.pdf
 Video: https://www.youtube.com/watch?v=MOc5ay-0iRU
 Template: talk
-Date: 2016-01-04 11:42:30
-Status: draft
+Date: 2016-01-15 16:42:30
