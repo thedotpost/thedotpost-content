@@ -10,8 +10,7 @@ Summary: Investigating memory leaks and performance issues in JavaScript apps is
 Slides: https://docs.google.com/presentation/d/1uom69F6NGURHhrox1Ma50NW1nOKqdxRr0dKDNENwi6Y/edit#slide=id.gd530a4dd9_0_54
 Video: https://www.youtube.com/watch?v=fCLiYVk4rPQ
 Template: talk
-Date: 2016-01-12 11:32:53
-Status: draft
+Date: 2016-01-21 11:32:53
 
 <br/>
 Further reads:

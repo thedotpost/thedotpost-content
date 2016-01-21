@@ -9,5 +9,4 @@ Category: Frontend
 Summary: Over the 8 years of its life, Dropbox’s CSS codebase has grown to a considerable scale. Dan talks about how their CSS has grown, the pains of inheriting a large CSS codebase, and some of the approaches for refactoring and scaling CSS at scale.
 Video: https://www.youtube.com/watch?v=zmjfh099zYg
 Template: talk
-Date: 2016-01-11 14:10:30
-Status: draft
+Date: 2016-01-21 14:10:30
