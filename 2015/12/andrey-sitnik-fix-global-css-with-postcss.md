@@ -10,8 +10,7 @@ Summary: The Componentization of the Web is one of the main 2015/2016 trends. An
 Slides: http://ai.github.io/postcss-isolation/
 Video: https://www.youtube.com/watch?v=cGnlKFtAb64
 Template: talk
-Date: 2016-01-13 17:14:47
-Status: draft
+Date: 2016-01-22 10:04:47
 
 Additional reads: </br>
 
