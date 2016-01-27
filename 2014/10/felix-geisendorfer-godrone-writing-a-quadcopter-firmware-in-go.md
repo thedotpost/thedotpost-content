@@ -10,6 +10,5 @@ Summary: Felix explains us how to write a Quadcopter firmwire in Go language by 
 Slides: https://docs.google.com/a/dotconferences.eu/file/d/0B3lEU2lM-l9gQTdndDZVZXQtRnZIcXhNMDh1RVVoSzRDQlFr/edit
 Video: https://www.youtube.com/watch?v=YcSCFEw08WA
 Template: talk
-Date: 2016-01-05 15:50:48
-Status: draft
+Date: 2015-01-16 15:50:48
 
