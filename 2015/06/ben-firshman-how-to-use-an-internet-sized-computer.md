@@ -10,5 +10,4 @@ Summary: When we combine containerization and cloud computer, we get an Internet
 Slides: https://speakerdeck.com/player/a431087c87b94b30be84662ed67deb6e
 Video: https://www.youtube.com/watch?v=TonHiVuCBuU
 Template: talk
-Date: 2016-02-12 20:09:12
-Status: draft
+Date: 2016-02-15 14:09:12
