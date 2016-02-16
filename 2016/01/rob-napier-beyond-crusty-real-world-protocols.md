@@ -13,10 +13,10 @@ Template: talk
 Date: 2016-02-16 10:12:27
 
 
-<!-- Transcript: https://gist.github.com/rnapier/e64e3938a787d789c2d4 (assuming you’ll integrate this directly; if that’s not convenient and you just want a link, I’ll put up a rendered version) -->
-
 For more on type erasers, see “<a href="http://robnapier.net/erasure" target="_blank" title="A Little Respect for AnySequence">A Little Respect for AnySequence</a>”.
 
 The Crusty Talk: <a href="https://developer.apple.com/videos/play/wwdc2015-408/" title="The Crusty Talk" target="_blank">https://developer.apple.com/videos/play/wwdc2015-408/</a>
 
 Cocoaphony Blog: <a href="http://robnapier.net" target="_blank" title="Cocoaphony Blog">http://robnapier.net</a>
+
+Transcript: <a href="https://gist.github.com/rnapier/e64e3938a787d789c2d4" target="_blank" title="Transcript">https://gist.github.com/rnapier/e64e3938a787d789c2d4</a>
