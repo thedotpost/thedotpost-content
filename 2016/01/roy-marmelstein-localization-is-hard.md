@@ -2,16 +2,15 @@ Conference: dotswift-2016
 Tags: swift
 Filmed: 2016-01-29
 Author: marmelroy
-Image: https://farm2.staticflickr.com/1445/24726901686_745dc4d1e6_k_d.jpg
+Image: http://i.imgur.com/olbxWiX.jpg?1
 Title: Localization is hard
 Curator: sylvinus
 Category: Frontend
-Summary: The apps we release are instantly available in over 150 countries with different languages, cultures and formatting rules. As developers, we often do the bare minimum to tailor our apps to international users and many tools provided by iOS are hidden in plain sight. Together, we'll go on a journey around the world in search of the strange and wonderful and highlight creative ways to make global users feel at home.
+Summary: Tailoring apps to users from over 150 countries with different languages, cultures and formatting rules is hard and often overlooked by developers. Roy takes us on a journey around the world in search of the strange and wonderful, uncovering many tools provided by iOS to make global users feel at home.
 Slides: http://speakerdeck.com/player/e65cb43b6b224cd9ba31a22954f1d3a2
 Video: https://www.youtube.com/watch?v=I4lTY5Ux7vY
 Template: talk
 Date: 2016-02-16 10:27:20
-Status: draft
 
 
 Additional reading:
