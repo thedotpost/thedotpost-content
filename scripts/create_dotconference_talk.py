@@ -145,7 +145,7 @@ if __name__ == "__main__":
 
   with open("%s.md" % path, "w") as f:
     f.write("\n".join([
-      "%s: %s" % (k, v) for k, v in talk.items() if v.strip()
+      "%s: %s" % (k, v.encode("utf-8", "ignore")) for k, v in talk.items() if v.strip()
     ]))
 
   print "Successfully written Markdown files! Testing in your browser in 5 seconds..."
