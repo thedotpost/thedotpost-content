@@ -3,8 +3,8 @@ Tags: swift
 Filmed: 2016-01-29
 Author: ayanonagon
 Image: https://farm2.staticflickr.com/1672/24385430959_e9df77f72f_k_d.jpg
-Title: Going Swift and Beyond // First Wave Swift 
-Curator: sylvinus
+Title: Going Swift and Beyond
+Curator: dimsumthinking, sylvinus
 Category: Frontend
 Summary: We’re a part of the first wave of Swift developers. How does Swift affect what kind of code we write? And looking a little beyond the code, can it even affect how we write our code and even why we do what we do?
 Slides: http://speakerdeck.com/player/2a54f76aa94741a3b4478f4d4bb6cc30

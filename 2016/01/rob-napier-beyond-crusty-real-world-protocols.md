@@ -4,7 +4,7 @@ Filmed: 2016-01-29
 Author: robnapier
 Image: http://i.imgur.com/5amYFcG.jpg?1
 Title: Beyond Crusty: Real-World Protocols
-Curator: sylvinus
+Curator: dimsumthinking, sylvinus
 Category: Frontend
 Summary: Apple has declared Swift as the first Protocol Oriented language. If you've tried to write protocol oriented code, you may have discovered that the promise isn't quite the reality. In this talk, you'll learn to rethink your types to avoid protocol problems without giving up their power.
 Slides: http://www.slideshare.net/slideshow/embed_code/key/6lQiqCwiOGOAY9

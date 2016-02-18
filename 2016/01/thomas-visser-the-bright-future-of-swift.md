@@ -4,9 +4,9 @@ Filmed: 2016-01-29
 Author: thomasvisser
 Image: https://farm2.staticflickr.com/1479/24125155124_ae76314602_k_d.jpg
 Title: The Bright Future of Swift
-Curator: sylvinus
+Curator: dimsumthinking, sylvinus
 Category: Frontend
-Summary: With Swift in the open, we can see what is coming for the language. Better built-in support for asynchronous programming is not one of them, yet. In this talk, we'll look at how Futures can help you write better asynchronous code now and what Futures could look like if they would be added to the language.
+Summary: With Swift in the open, we can see what is coming for the language. Better built-in support for asynchronous programming is not one of them, yet. Thomas explains how Futures can help you write better asynchronous code now and what Futures could look like if they would be added to the language.
 Slides: http://speakerdeck.com/player/d1f4b5a1ec7a483ca686566186acf4e1
 Video: https://www.youtube.com/watch?v=vjGvsJv4Wos
 Template: talk

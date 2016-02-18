@@ -4,7 +4,7 @@ Filmed: 2016-01-29
 Author: marmelroy
 Image: http://i.imgur.com/olbxWiX.jpg?1
 Title: Localization is hard
-Curator: sylvinus
+Curator: dimsumthinking, sylvinus
 Category: Frontend
 Summary: Tailoring apps to users from over 150 countries with different languages, cultures and formatting rules is hard and often overlooked by developers. Roy takes us on a journey around the world in search of the strange and wonderful, uncovering many tools provided by iOS to make global users feel at home.
 Slides: http://speakerdeck.com/player/e65cb43b6b224cd9ba31a22954f1d3a2
