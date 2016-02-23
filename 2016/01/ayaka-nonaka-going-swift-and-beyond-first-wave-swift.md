@@ -11,7 +11,6 @@ Slides: http://speakerdeck.com/player/2a54f76aa94741a3b4478f4d4bb6cc30
 Video: https://www.youtube.com/watch?v=fdnpexLkdx4
 Template: talk
 Date: 2016-02-17 10:12:27
-Status: draft
 
 In 2013, I was in San Francisco for the first time during the week of WWDC. I didn’t have a ticket, but I was still able to attend a bunch of WWDC-related events that were happening that week. One of the events that I attended was the annual CocoaPods meetup, where Mattt Thompson, the creator of NSHipster, AFNetworking, and a bunch of other cool things, gave a talk titled [Third Wave Objective-C](https://speakerdeck.com/mattt/third-wave-objective-c). In his talk Mattt went over the history of Objective-C, starting with the NeXTSTEP days (1983) when the first wave of Objective-C developers started the community, followed by the OS X days when the second wave of developers joined the community, and last but not least, iOS.
 
