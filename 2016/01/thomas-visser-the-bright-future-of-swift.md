@@ -10,8 +10,7 @@ Summary: With Swift in the open, we can see what is coming for the language. Bet
 Slides: http://speakerdeck.com/player/d1f4b5a1ec7a483ca686566186acf4e1
 Video: https://www.youtube.com/watch?v=vjGvsJv4Wos
 Template: talk
-Date: 2016-02-17 18:04:32
-Status: draft
+Date: 2016-02-24 17:04:32
 
 
 Now Swift is Open Source, we are able to look further in the future of Swift than ever before. This allows us to see what's coming, the cool things that will allow us to write better code, in Swift 3 and beyond, but also what won’t be coming any time soon. Improvements in support for asynchronous programming is an example of the latter. It is out of scope for Swift 3.
