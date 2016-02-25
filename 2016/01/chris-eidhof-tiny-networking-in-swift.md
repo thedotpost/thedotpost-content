@@ -9,8 +9,7 @@ Category: Frontend
 Summary: Chris looks at how we can take standard networking code, and use Swift's features to make it generic and simple. While live-coding, he factors out common parts into a struct, so that the resulting code is easy to test and highly reusable.
 Video: https://www.youtube.com/watch?v=ewk-XNzXzAA
 Template: talk
-Date: 2016-02-17 10:12:27
-Status: draft
+Date: 2016-02-25 10:12:27
 
 Chris' comments:
 
