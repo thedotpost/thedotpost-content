@@ -10,8 +10,7 @@ Summary: JSON Parsing was and still is the most discussed topic in Swift communi
 Slides: http://www.slideshare.net/slideshow/embed_code/key/xP7AtOLS23ANuM
 Video: https://www.youtube.com/watch?v=e8K9F8IVu14
 Template: talk
-Date: 2016-02-17 18:23:49
-Status: draft
+Date: 2016-02-26 16:23:49
 
 To learn more about FlatBuffers:
 
