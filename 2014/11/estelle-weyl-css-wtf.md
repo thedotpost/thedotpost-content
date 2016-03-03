@@ -3,10 +3,10 @@ Tags: CSS
 Filmed: 2014-11-14
 Author: estellevw
 Image: https://farm8.staticflickr.com/7513/15200577573_2564c90acc_k_d.jpg
-Title: CSS? WTF!
+Title: Do you really know CSS?
 Curator: sylvinus
 Category: Frontend
-Summary: Estelle explains how powerful the CSS can be and how to use it effectively to your advantage.
+Summary: Estelle explores some of the quirks of CSS and how to use them to your advantage.
 Slides: http://estelle.github.io/doyouknowcss/
 Video: https://www.youtube.com/watch?v=IvhIupbJrKc
 Template: talk
