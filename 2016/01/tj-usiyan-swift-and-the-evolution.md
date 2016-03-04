@@ -10,5 +10,4 @@ Summary: The open source release of Swift was much more than we might have hoped
 Slides: http://www.slideshare.net/slideshow/embed_code/key/lnYjY91q4xhUVD
 Video: https://www.youtube.com/watch?v=Gh1RgYz--wg
 Template: talk
-Date: 2016-03-02 18:16:20
-Status: draft
+Date: 2016-03-04 13:16:20
