@@ -10,7 +10,6 @@ Summary: Since the iPhone 6 & 6+, we have 16 different device sizes to handle in
 Slides: http://www.slideshare.net/slideshow/embed_code/key/GXQR8wMmB0lPJm
 Video: https://www.youtube.com/watch?v=GgsQgpCYdrM
 Template: talk
-Date: 2016-03-02 13:33:09
-Status: draft
+Date: 2016-03-07 11:33:09
 
 Victor Wang is working on a library based on what he talked about in this video, which lead us to build our UI in iOS hassle free. Look for an upcoming open source release and more information on his blog: [allblue.me](http://allblue.me)
