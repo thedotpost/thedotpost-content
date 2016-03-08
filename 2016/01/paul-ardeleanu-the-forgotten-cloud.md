@@ -10,5 +10,6 @@ Summary: Introduced in 2014, CloudKit should have been by now the go-to framewor
 Slides: https://speakerdeck.com/player/e9eeadf972134133931226825757b2dd
 Video: https://www.youtube.com/watch?v=38NijK7A1l4
 Template: talk
-Date: 2016-03-07 12:10:32
-Status: draft
+Date: 2016-03-08 12:10:32
+
+More on this talk [here](https://medium.com/open-swift/the-forgotten-cloud-talk-dotswift-5ccd9b120fd4#.p2qufhs2e).
