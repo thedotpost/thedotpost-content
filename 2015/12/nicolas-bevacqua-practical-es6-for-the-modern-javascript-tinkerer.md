@@ -10,8 +10,7 @@ Summary: ES6 is now a standard. Adoption is increasing across the web and the fe
 Slides: https://speakerdeck.com/player/816ace8105fc40529e5d3c136b76d744
 Video: https://www.youtube.com/watch?v=7TfBs1-3G2A
 Template: talk
-Date: 2016-03-02 16:24:46
-Status: draft
+Date: 2016-03-10 16:24:46
 
 
 If you’d like to learn more, you can read [ponyfoo.com/articles/es6](https://ponyfoo.com/articles/es6).
