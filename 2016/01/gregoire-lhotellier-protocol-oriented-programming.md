@@ -10,8 +10,8 @@ Summary: Protocol Oriented Programming was one of the biggest announcement of WW
 Video: https://www.youtube.com/watch?v=BpBqutfpSPQ
 Slides: https://medium.com/@greg3z/protocol-oriented-programming-a3e192f6e8f2#.kaepvni05
 Template: talk
-Date: 2016-02-17 10:12:27
-Status: draft
+Date: 2016-03-11 10:12:27
+
 
 Once upon a time, in the *OP kingdom, not really far away, there was a princess called OOP.
 Everyone knew OOP and lots of people liked her. One day, she had a little sister, named POP.

@@ -10,7 +10,7 @@ Summary: CAReplicatorLayer is perhaps the most obscure of all the CALayers, but 
 Slides: http://www.slideshare.net/slideshow/embed_code/key/jxklioe3NimDyQ
 Video: https://www.youtube.com/watch?v=0uvDO9FgFsg
 Template: talk
-Date: 2016-03-09 10:12:27
+Date: 2016-03-11 16:04:27
 Status: draft
 
 
