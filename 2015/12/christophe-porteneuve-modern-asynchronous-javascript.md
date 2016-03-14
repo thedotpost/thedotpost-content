@@ -10,5 +10,4 @@ Summary: JavaScript is asynchronous by nature and that can lead to uneasy code p
 Video: https://www.youtube.com/watch?v=qNLCTBO3mec
 Slides: http://bitly.com/dotjs-async
 Template: talk
-Date: 2016-03-04 10:09:53
-Status: draft
+Date: 2016-03-14 10:09:53
