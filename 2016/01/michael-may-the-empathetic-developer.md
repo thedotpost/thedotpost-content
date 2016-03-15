@@ -10,8 +10,7 @@ Summary: At some point in our software engineering careers, we will end up worki
 Slides: http://www.slideshare.net/slideshow/embed_code/key/eHcUTCAehhiDIh
 Video: https://www.youtube.com/watch?v=MticuuqsMcQ
 Template: talk
-Date: 2016-02-26 18:13:49
-Status: draft
+Date: 2016-03-15 14:13:49
 
 
 <strong>At some point in most of our software engineering careers, we will end up working on code we will think of as legacy.</strong>
