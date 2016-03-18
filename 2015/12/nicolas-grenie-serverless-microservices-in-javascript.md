@@ -10,8 +10,7 @@ Summary: Nicolas explains how to build and maintain web applications and micro-s
 Slides: https://speakerdeck.com/player/56ea31e2228842878f56a95ab84c50f9
 Video: https://www.youtube.com/watch?v=2kXYUlG1eXA
 Template: talk
-Date: 2016-03-04 10:07:53
-Status: draft
+Date: 2016-03-18 17:26:53
 
 
 There is currently a major shift sweeping over the software industry. We went from monolithic apps, to API-driven apps, and now Software Engineers are breaking their apps into "micro-services". Managing and connecting those different micro-services could be a hassle.
