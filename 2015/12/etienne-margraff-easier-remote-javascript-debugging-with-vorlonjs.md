@@ -10,8 +10,7 @@ Summary: Debugging JavaScript on mobile devices can be a headache. There are som
 Slides: http://www.slideshare.net/slideshow/embed_code/key/CxjlAhTJQULEN3
 Video: https://www.youtube.com/watch?v=XfzfKtbLgUM
 Template: talk
-Date: 2016-03-04 10:30:20
-Status: draft
+Date: 2016-03-24 10:30:20
 
 
 Some articles about Vorlon.js:
