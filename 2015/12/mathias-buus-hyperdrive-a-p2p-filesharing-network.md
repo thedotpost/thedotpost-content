@@ -7,7 +7,7 @@ Title: Hyperdrive, a P2P filesharing network
 Curator: sylvinus
 Category: Frontend
 Slides: https://github.com/mafintosh/slides/blob/gh-pages/dotjs-2015/README.md
-Summary: Hyperdrive is BitTorrent style file-sharing network written in JavaScript. It is based on techniques such as rabin file chunking and merkle trees to ensure only a diff of a file is shared when it is updated.
+Summary: Mathias introduces Hyperdrive, a BitTorrent-style file-sharing network written in JavaScript. It is based on techniques such as rabin file chunking and merkle trees to ensure only the diff of a file is shared when it is updated.
 Video: https://www.youtube.com/watch?v=vTHRHWIacI0
 Template: talk
 Date: 2016-03-23 15:52:04
@@ -18,7 +18,7 @@ Status: draft
 
 On a technical level it works in a similar way to BitTorrent. You can use Hyperdrive to distribute any kind of dataset or just to do classic file sharing with multiple peers where every peer is helping share the data.
 
-Mathias's talk starts out with a short technical overview about how it works including
+This talk starts out with a short technical overview about how Hyperdrive works, including:
 
 * Diffing - Given two version of a file how do you figure out which parts has changed?
 * Deduplication - How do you make sure a single file is only downloaded once even though it is shared multiple times in different feeds?

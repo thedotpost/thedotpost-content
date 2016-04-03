@@ -6,7 +6,7 @@ Image: https://farm8.staticflickr.com/7513/15200577573_2564c90acc_k_d.jpg
 Title: Do you really know CSS?
 Curator: sylvinus
 Category: Frontend
-Summary: Estelle explores some of the quirks of CSS and how to use them to your advantage.
+Summary: Estelle explores some of the quirks of CSS like centering, counters, specificity, shapes, masking, ... and how to use them to your advantage!
 Slides: http://estelle.github.io/doyouknowcss/
 Video: https://www.youtube.com/watch?v=IvhIupbJrKc
 Template: talk

@@ -6,7 +6,7 @@ Image: https://farm6.staticflickr.com/5799/23286738429_2b994a608e_k_d.jpg
 Title: Getting started with Angular2
 Curator: sylvinus
 Category: Frontend
-Summary: Maxim goes shortly through some of key concepts of Angular2: components, template syntax, data flow, dependency injection. After this he discusses programming languages available for writing apps in Angular2 and build a functioning app. Finally, Maxim will give an update on current status of Angular2.
+Summary: Maxim shortly goes through some key concepts of Angular2: components, template syntax, data flow, dependency injection and the supported languages including ES6 and TypeScript.
 Slides: https://speakerdeck.com/player/44f09eda6c1f4e158d691d81bb8a1eeb
 Video: https://www.youtube.com/watch?v=A-Io9TQqqLY
 Template: talk
