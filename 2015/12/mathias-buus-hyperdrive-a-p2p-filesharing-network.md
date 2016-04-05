@@ -10,8 +10,7 @@ Slides: https://github.com/mafintosh/slides/blob/gh-pages/dotjs-2015/README.md
 Summary: Mathias introduces Hyperdrive, a BitTorrent-style file-sharing network written in JavaScript. It is based on techniques such as rabin file chunking and merkle trees to ensure only the diff of a file is shared when it is updated.
 Video: https://www.youtube.com/watch?v=vTHRHWIacI0
 Template: talk
-Date: 2016-03-23 15:52:04
-Status: draft
+Date: 2016-04-05 15:02:04
 
 
 [Hyperdrive](https://github.com/mafintosh/hyperdrive), is a JavaScript library that allows you to distribute feeds of binary data to multiple peers on the internet. It was developed to be the main data and file distribution layer for the [dat project](https://dat-data.com). It works both in the browser using browserify or in node.js.
