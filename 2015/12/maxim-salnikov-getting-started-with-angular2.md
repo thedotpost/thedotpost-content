@@ -10,7 +10,6 @@ Summary: Maxim shortly goes through some key concepts of Angular2: components, t
 Slides: https://speakerdeck.com/player/44f09eda6c1f4e158d691d81bb8a1eeb
 Video: https://www.youtube.com/watch?v=A-Io9TQqqLY
 Template: talk
-Date: 2016-03-04 10:08:53
-Status: draft
+Date: 2016-04-07 16:18:53
 
 Code for this talk is [available on GitHub](https://github.com/webmaxru/angular2-dotconf).
