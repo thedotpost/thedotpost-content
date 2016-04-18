@@ -7,6 +7,7 @@ Title: Xcodeless
 Curator: sylvinus
 Category: Frontend
 Video: https://www.youtube.com/watch?v=IvGNB4bMpHI
+Summary: Daniel explores the good, the bad and the frustrating of removing Xcode (and almost OS X) from your Swift development workflow.
 Template: talk
 Date: 2016-03-16 14:28:55
 Status: draft
