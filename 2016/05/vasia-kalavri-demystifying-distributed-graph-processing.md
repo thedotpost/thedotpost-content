@@ -10,9 +10,7 @@ Summary: Writing distributed graph applications is inherently hard. Vasia gives 
 Slides: http://www.slideshare.net/slideshow/embed_code/key/iUNWyUWBU63yqg
 Video: https://www.youtube.com/watch?v=RLO9MJFi3sI
 Template: talk
-Date: 2016-05-10 10:24:53
-Status: draft
-
+Date: 2016-05-10 22:10:53
 
 Additional reads:
 - [Paper References](http://www.citeulike.org/user/vasiakalavri/tag/dotscale)
