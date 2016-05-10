@@ -6,7 +6,7 @@ Image: https://farm2.staticflickr.com/1597/26659173745_c13e040451_k_d.jpg
 Title: Scaling Learning on Apache Spark
 Curator: sylvinus
 Category: Backend
-Summary: Scaling up machine learning techniques to keep pace with "big data" is its own interesting engineering problem. Recently, Apache Spark has become a popular framework for large-scale ML. In this talk, Sean Owen introduces the intuition behind modern large scale recommenders and highlights four ways this and other ML algorithms are engineered to scale.
+Summary: Scaling up machine learning techniques to keep pace with "big data" is its own interesting engineering problem. Recently, Apache Spark has become a popular framework for large-scale ML. Sean introduces the intuition behind modern large-scale recommenders and highlights four ways ML algorithms are engineered to scale.
 Slides: https://drive.google.com/open?id=0B_hfrkaWlLi4YnVhckExbFFZY1k
 Video: https://www.youtube.com/watch?v=MvyZYr9yKzM
 Template: talk

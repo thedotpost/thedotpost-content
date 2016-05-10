@@ -6,7 +6,7 @@ Image: https://farm2.staticflickr.com/1609/26055170533_7c151e2fd4_k_d.jpg
 Title: Demystifying Distributed Graph Processing
 Curator: sylvinus
 Category: Backend
-Summary: Writing distributed graph applications is inherently hard. In this talk, Vasia gives an overview of high-level programming models and platforms for distributed graph processing. She exposes and discusses common misconceptions, shares lessons learnt, and suggests best practices.
+Summary: Writing distributed graph applications is inherently hard. Vasia gives an overview of high-level programming models and platforms for distributed graph processing. She exposes and discusses common misconceptions, shares lessons learnt, and suggests best practices.
 Slides: http://www.slideshare.net/slideshow/embed_code/key/iUNWyUWBU63yqg
 Video: https://www.youtube.com/watch?v=RLO9MJFi3sI
 Template: talk
