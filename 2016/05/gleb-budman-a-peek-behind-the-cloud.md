@@ -10,7 +10,6 @@ Summary: We all use cloud services, but how do you design, build, and operate th
 Video: https://www.youtube.com/watch?v=E6t8muepQ-Y
 Template: talk
 Date: 2016-05-10 14:23:16
-Status: draft
 
 
 Additional links:
