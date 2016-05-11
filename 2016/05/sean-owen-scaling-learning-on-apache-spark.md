@@ -8,10 +8,9 @@ Curator: sylvinus
 Category: Backend
 Summary: Scaling up machine learning techniques to keep pace with "big data" is its own interesting engineering problem. Recently, Apache Spark has become a popular framework for large-scale ML. Sean introduces the intuition behind modern large-scale recommenders and highlights four ways ML algorithms are engineered to scale.
 Slides: https://drive.google.com/open?id=0B_hfrkaWlLi4YnVhckExbFFZY1k
-Video: https://www.youtube.com/watch?v=MvyZYr9yKzM
+Video: https://www.youtube.com/watch?v=15VslcimV7s
 Template: talk
-Date: 2016-05-10 10:47:46
-Status: draft
+Date: 2016-05-11 09:47:46
 
 
 Additional resources:
