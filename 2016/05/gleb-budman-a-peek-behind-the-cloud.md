@@ -9,6 +9,7 @@ Category: Backend
 Summary: We all use cloud services, but how do you design, build, and operate the physical servers that power them? Gleb explains how Backblaze built their storage servers from scratch and open-sourced their work so we could do it too.
 Video: https://www.youtube.com/watch?v=E6t8muepQ-Y
 Template: talk
+Slides: http://www.slideshare.net/slideshow/embed_code/key/fDiM6CugtebC6e
 Date: 2016-05-10 14:23:16
 
 
