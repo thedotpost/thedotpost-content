@@ -1,5 +1,5 @@
 Name: dotSecurity 2016
-Link: http://www.dotsecurity.io
+Link: http://2016.dotsecurity.io
 Location: Paris, France
-Tickets: http://www.dotsecurity.io/tickets
 Date: 2016-05-22
+Photos: https://www.flickr.com/photos/97226415@N08/sets/72157667581312126

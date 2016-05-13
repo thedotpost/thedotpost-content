@@ -1,0 +1,2 @@
+Oneliner: Researcher at <a href="http://www.inria.fr/" target="_blank">Inria</a> & Scientific leader of the team <a href="https://www.rocq.inria.fr/secret/index.php?lg=en" target="_blank">SECRET</a>
+Name: Anne Canteaut
