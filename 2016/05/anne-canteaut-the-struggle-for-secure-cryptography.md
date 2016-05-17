@@ -11,7 +11,6 @@ Slides: https://www.rocq.inria.fr/secret/Anne.Canteaut/Publications/dotsecurity1
 Video: https://www.youtube.com/watch?v=uT4hrWkbBxM
 Template: talk
 Date: 2016-05-13 14:41:56
-Status: draft
 
 Cryptographic primitives, like encryption schemes, hash functions... are the core of most security applications. But the trust that users place in these algorithms has been repeatedly violated. There are many examples of attacks which exploit weaknesses of the underlying cryptographic primitives, like the recent Logjam and Sloth attacks against TLS.
 
