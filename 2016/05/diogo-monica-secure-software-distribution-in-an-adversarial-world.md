@@ -6,7 +6,7 @@ Image: https://farm2.staticflickr.com/1648/26581522802_b661ff24ad_k_d.jpg
 Title: Secure Software Distribution in an Adversarial World
 Curator: sylvinus
 Category: Security
-Summary: Secure software distribution is a hard problem. As more of our applications become dependent on external modules, distributed by infrastructures outside of our control, having secure software update systems becomes increasingly important. It is time for software developers to start operating under an attack model that considers the distribution infrastructure itself as being actively malicious.
+Summary: As more of our applications become dependent on external modules, having secure software update systems becomes increasingly important. Diogo argues that we should operate under an attack model that considers the distribution infrastructure itself as being actively malicious.
 Slides: http://www.slideshare.net/slideshow/embed_code/key/5yiX4z8VwK0wq6
 Video: https://www.youtube.com/watch?v=2Dyz8huMfIo
 Template: talk
@@ -14,9 +14,9 @@ Date: 2016-05-18 11:50:34
 Status: draft
 
 
-Secure software distribution is a hard problem. The thousands of different software update systems in use today, most of which are vulnerable to a myriad of attacks that leave the end users potentially vulnerable to compromise, are a testament to this fact. 
+Secure software distribution is a hard problem. The thousands of different software update systems in use today, most of which are vulnerable to a myriad of attacks that leave the end users potentially vulnerable to compromise, are a testament to this fact.
 
-With the explosion in popularity of package managers and distributors such as RubyGems, PyPI and npm, more and more of our applications are dependent on small, reusable, modules, developed by thousands of different developers, and distributed by infrastructures outside of our control. Given that distributed systems are only as secure as their weakest link, it only takes compromising one of these modules to be able to compromise the entire infrastructure. 
+With the explosion in popularity of package managers and distributors such as RubyGems, PyPI and npm, more and more of our applications are dependent on small, reusable, modules, developed by thousands of different developers, and distributed by infrastructures outside of our control. Given that distributed systems are only as secure as their weakest link, it only takes compromising one of these modules to be able to compromise the entire infrastructure.
 
 It is time for software developers and publishers to start operating under an attack model that considers the distribution infrastructure itself as being actively malicious, and to start following best practices concerning role responsibility separation, offline storage of signing keys, and routine rotation of signing keys.
 
