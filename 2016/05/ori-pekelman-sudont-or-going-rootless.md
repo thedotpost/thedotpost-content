@@ -10,4 +10,3 @@ Summary: Operating at scale means a constant fight against entropy. In this shor
 Video: https://www.youtube.com/watch?v=X-2HxEIz-xE
 Template: talk
 Date: 2016-05-13 14:58:17
-Status: draft
