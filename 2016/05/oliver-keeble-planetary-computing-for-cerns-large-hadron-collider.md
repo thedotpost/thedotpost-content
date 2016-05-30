@@ -3,7 +3,7 @@ Tags: CERN, LHC
 Filmed: 2016-05-25
 Author: oliverkeeble
 Image: http://i.imgur.com/hE1VDgK.jpg
-Title: Planetary Computing for CERN's Large Hadron Collider
+Title: Planetary Computing at the Large Hadron Collider
 Curator: sylvinus
 Category: Security
 Summary: CERN's Large Hadron Collider (LHC) generates petabytes of data every month and a global computing infrastructure has been deployed for its storage and analysis. Oliver describes the Worldwide LHC Computing Grid (WLCG) and the technologies behind it.

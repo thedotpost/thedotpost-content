@@ -3,10 +3,10 @@ Tags: Scalability, Monitoring
 Filmed: 2016-05-25
 Author: benjaminfernandes
 Image: http://i.imgur.com/OTbTfAU.jpg
-Title: Monitoring 101 - How To Monitor at Scale
+Title: Monitoring 101: How To Monitor at Scale
 Curator: sylvinus
 Category: Backend
-Summary: System monitoring is a wide topic, with hundred ways of doing it and tons of metrics to look at. Look at a growing web-application to illustrate the important monitoring concepts. Present what to look at first, how to exploit the data and what are the good practices at large scale.
+Summary: System monitoring is a wide topic, with many different ways of doing it and tons of metrics to look at. Benjamin looks at a growing web-application to illustrate a few important monitoring concepts: what to look at first, how to exploit the data and what are the good practices at scale.
 Slides: https://speakerdeck.com/player/937415311c9b41b79dc7e22ae758369a
 Video: https://www.youtube.com/watch?v=ia-wdEdMUIY
 Template: talk

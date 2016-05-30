@@ -6,7 +6,7 @@ Image: https://farm2.staticflickr.com/1642/26659151625_c086b94436_k_d.jpg
 Title: The Case for Cross-Service Joins
 Curator: sylvinus
 Category: Security
-Summary: If you develop a modern application, you are most likely composing it with several services, many of them third-party. While this offers many benefits, it also traps your data in silos, preventing a holistic view. Current options to mitigate this problem are expensive, hassle-ridden stopgaps. In this talk, Eliot presents the cross-service-join: a means of querying across multiple services from a central database, and see a proof-of-concept in action.
+Summary: Developing a modern application oftern means composing it with several services, many of them third-party. While this offers many benefits, it also traps your data in silos, preventing a holistic view. Eliot presents the cross-service-join: a means of querying across multiple services from a central database.
 Video: https://www.youtube.com/watch?v=huwM-amMGnM
 Template: talk
 Date: 2016-05-25 17:06:23
