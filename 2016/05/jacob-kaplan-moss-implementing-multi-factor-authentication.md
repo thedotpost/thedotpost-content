@@ -2,7 +2,7 @@ Conference: dotsecurity-2016
 Tags: MFA
 Filmed: 2016-05-22
 Author: jacobian
-Image: https://farm8.staticflickr.com/7139/26677819903_2b01891607_k_d.jpg
+Image: https://farm8.staticflickr.com/7321/26740203224_379f9e6711_k_d.jpg
 Title: Implementing Multi-factor Authentication
 Curator: sylvinus
 Category: Security

@@ -2,7 +2,7 @@ Conference: dotscale-2016
 Tags: CERN, LHC
 Filmed: 2016-05-25
 Author: oliverkeeble
-Image: http://i.imgur.com/hE1VDgK.jpg
+Image: https://farm8.staticflickr.com/7218/27073699870_ed2d142ff8_k_d.jpg
 Title: Planetary Computing at the Large Hadron Collider
 Curator: sylvinus
 Category: Security
