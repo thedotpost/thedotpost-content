@@ -10,8 +10,7 @@ Summary: System monitoring is a wide topic, with many different ways of doing it
 Slides: https://speakerdeck.com/player/937415311c9b41b79dc7e22ae758369a
 Video: https://www.youtube.com/watch?v=ia-wdEdMUIY
 Template: talk
-Date: 2016-05-26 18:05:05
-Status: draft
+Date: 2016-06-02 11:05:05
 
 Additional resources/references:
 
