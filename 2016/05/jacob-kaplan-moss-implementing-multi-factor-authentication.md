@@ -10,5 +10,4 @@ Summary: MFA is an incredibly effective security control, but the landscape is c
 Slides: https://speakerdeck.com/player/1537f39c3c364df39b7642c698ea2b1f
 Video: https://www.youtube.com/watch?v=yrzL14tNXDM
 Template: talk
-Date: 2016-05-27 13:54:41
-Status: draft
+Date: 2016-06-03 11:54:41
