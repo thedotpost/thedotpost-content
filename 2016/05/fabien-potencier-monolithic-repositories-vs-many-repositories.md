@@ -10,5 +10,4 @@ Summary: Deciding to use a monolithic repository or many repositories for your n
 Video: https://www.youtube.com/watch?v=ZVsDA6GhKOU
 Template: talk
 Slides: https://speakerdeck.com/player/38b1b511ef4d405c9d3f13a50b8b1a1b
-Date: 2016-06-07 14:23:16
-Status: draft
+Date: 2016-06-09 14:49:16
