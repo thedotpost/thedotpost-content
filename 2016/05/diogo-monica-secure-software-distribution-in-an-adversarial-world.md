@@ -10,8 +10,7 @@ Summary: As more of our applications become dependent on external modules, havin
 Slides: http://www.slideshare.net/slideshow/embed_code/key/5yiX4z8VwK0wq6
 Video: https://www.youtube.com/watch?v=2Dyz8huMfIo
 Template: talk
-Date: 2016-05-18 11:50:34
-Status: draft
+Date: 2016-06-09 16:01:34
 
 
 Secure software distribution is a hard problem. The thousands of different software update systems in use today, most of which are vulnerable to a myriad of attacks that leave the end users potentially vulnerable to compromise, are a testament to this fact.
