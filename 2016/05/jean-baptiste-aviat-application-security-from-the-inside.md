@@ -10,5 +10,4 @@ Summary: Jean-Baptiste illustrates the pain points of traditional security asses
 Slides: http://speakerdeck.com/player/2347a0869ada4d78b4c03d12c0718fce
 Video: https://www.youtube.com/watch?v=d1mPVcbBJl4
 Template: talk
-Date: 2016-05-17 14:13:04
-Status: draft
+Date: 2016-06-10 11:04:04
