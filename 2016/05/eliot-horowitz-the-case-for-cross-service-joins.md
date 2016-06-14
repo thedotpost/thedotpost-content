@@ -9,8 +9,8 @@ Category: Security
 Summary: Developing a modern application oftern means composing it with several services, many of them third-party. While this offers many benefits, it also traps your data in silos, preventing a holistic view. Eliot presents the cross-service-join: a means of querying across multiple services from a central database.
 Video: https://www.youtube.com/watch?v=huwM-amMGnM
 Template: talk
-Date: 2016-05-25 17:06:23
-Status: draft
+Date: 2016-06-13 11:06:23
+
 
 Modern applications are composed of services, many of them third-party, orchestrated by the increasingly narrow band of behavior unique to any particular application: the business logic. Service-based architecture is faster to develop and more fault-tolerant than the monolithic and N-tiered applications that came before. But as a byproduct, it creates silos of data for each service, preventing a holistic view.
 
