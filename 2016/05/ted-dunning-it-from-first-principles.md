@@ -10,5 +10,4 @@ Summary: Computing isn't physics. But as we add scale to computing systems, we c
 Slides: https://dl.dropboxusercontent.com/u/36863361/dotScale-dunning-first-principles.pdf
 Video: https://www.youtube.com/watch?v=-2oU2aUeYks
 Template: talk
-Date: 2016-06-07 14:48:09
-Status: draft
+Date: 2016-06-17 14:48:09
