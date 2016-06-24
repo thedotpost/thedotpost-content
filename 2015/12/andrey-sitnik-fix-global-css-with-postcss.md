@@ -17,6 +17,6 @@ Additional reads: </br>
 1. [Per file transformation](https://github.com/postcss/postcss-use)
 2. [Selectors isolcation](https://github.com/outpunk/postcss-modules)
 3. [Local reset](https://github.com/maximkoretskiy/postcss-autoreset)
-4. [Properties isolations by `all: inital`]( https://github.com/cssnext/postcss-cssnext)
+4. [Properties isolations by `all: inital`](https://github.com/MoOx/postcss-cssnext)
 4. [Container’s media queries](https://github.com/ausi/cq-prolyfill)
 
