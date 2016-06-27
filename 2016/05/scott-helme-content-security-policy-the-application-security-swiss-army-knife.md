@@ -10,8 +10,7 @@ Summary: CSP is an incredibly simple yet amazingly powerful security feature tha
 Slides: http://www.slideshare.net/slideshow/embed_code/key/flMLw6SiHA8Opt
 Video: https://www.youtube.com/watch?v=d0D3d0ZM-rI
 Template: talk
-Date: 2016-05-18 11:22:02
-Status: draft
+Date: 2016-06-24 11:22:02
 
 Did you know that besides mitigating XSS attacks, CSP can also stop click-jacking attacks, neutralise mixed-content, kill ad-injectors and even help you migrate from HTTP to HTTPS?
 

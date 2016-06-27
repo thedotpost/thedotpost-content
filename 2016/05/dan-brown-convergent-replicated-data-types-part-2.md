@@ -9,8 +9,7 @@ Category: Backend
 Summary: Following up on [his talk at dotScale 2015](http://thedotpost.com/2015/06/dan-brown-convergent-replicated-data-types) where he presented the benefits of an eventually consistent "AP" system using CRDTs versus a strictly consistent "CP" system, Dan shares more information about some of the specific data types in the Riak database and how they behave when conflicts occur.
 Video: https://www.youtube.com/watch?v=jPfBJo37qm0
 Template: talk
-Date: 2016-05-27 14:58:11
-Status: draft
+Date: 2016-06-23 14:58:11
 
 
 
