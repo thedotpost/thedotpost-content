@@ -2,7 +2,7 @@ Conference: dotscale-2016
 Tags: CRDT
 Filmed: 2016-05-25
 Author: danbrown
-Image: http://i.imgur.com/jVf1nmB.jpg
+Image: https://i.imgur.com/jVf1nmB.jpg
 Title: Convergent Replicated Data Types, Part 2
 Curator: sylvinus
 Category: Backend

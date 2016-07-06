@@ -2,7 +2,7 @@ Conference: dotjs-2015
 Tags: JavaScript
 Filmed: 2015-12-07
 Author: brendaneich
-Image: http://i.imgur.com/kezx9SE.jpg?1
+Image: https://i.imgur.com/kezx9SE.jpg?1
 Title: Web Evolution in Action 2
 Curator: sylvinus
 Category: Frontend

@@ -2,7 +2,7 @@ Conference: dotswift-2016
 Tags: swift
 Filmed: 2016-01-29
 Author: marmelroy
-Image: http://i.imgur.com/olbxWiX.jpg?1
+Image: https://i.imgur.com/olbxWiX.jpg?1
 Title: Localization is hard
 Curator: dimsumthinking, sylvinus
 Category: Frontend

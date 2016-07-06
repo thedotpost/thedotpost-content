@@ -2,7 +2,7 @@ Conference: dotcss-2015
 Tags: CSS, PostCSS
 Filmed: 2015-12-04
 Author: andreysitnik
-Image: http://i.imgur.com/GZWx9w7.jpg?1
+Image: https://i.imgur.com/GZWx9w7.jpg?1
 Title: Fix Global CSS with PostCSS
 Curator: sylvinus
 Category: Frontend

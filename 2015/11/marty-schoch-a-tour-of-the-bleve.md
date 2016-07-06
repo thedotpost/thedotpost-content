@@ -2,7 +2,7 @@ Conference: dotgo-2015
 Tags: golang
 Filmed: 2015-11-09
 Author: mschoch
-Image: http://i.imgur.com/Lo0zCNW.jpg?1
+Image: https://i.imgur.com/Lo0zCNW.jpg?1
 Title: A Tour of the Bleve
 Curator: sylvinus, davecheney
 Category: Backend

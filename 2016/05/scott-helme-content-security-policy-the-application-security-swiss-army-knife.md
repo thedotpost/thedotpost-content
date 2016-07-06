@@ -2,7 +2,7 @@ Conference: dotsecurity-2016
 Tags: Security
 Filmed: 2016-05-22
 Author: scotthelme
-Image: http://i.imgur.com/CjtNonH.jpg
+Image: https://i.imgur.com/CjtNonH.jpg
 Title: Content Security Policy: The application security Swiss Army Knife
 Curator: sylvinus
 Category: Security

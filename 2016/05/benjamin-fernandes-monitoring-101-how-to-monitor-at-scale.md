@@ -2,7 +2,7 @@ Conference: dotscale-2016
 Tags: Scalability, Monitoring
 Filmed: 2016-05-25
 Author: benjaminfernandes
-Image: http://i.imgur.com/OTbTfAU.jpg
+Image: https://i.imgur.com/OTbTfAU.jpg
 Title: Monitoring 101: How To Monitor at Scale
 Curator: sylvinus
 Category: Backend

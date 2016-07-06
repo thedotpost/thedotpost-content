@@ -2,7 +2,7 @@ Conference: dotgo-2015
 Tags: golang
 Filmed: 2015-11-09
 Author: ajstarks
-Image: http://i.imgur.com/KG66zEs.jpg?1
+Image: https://i.imgur.com/KG66zEs.jpg?1
 Title: The Other Side of Go: Programming Pictures
 Curator: sylvinus, davecheney
 Category: Backend

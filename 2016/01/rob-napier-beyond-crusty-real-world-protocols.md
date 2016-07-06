@@ -2,7 +2,7 @@ Conference: dotswift-2016
 Tags: swift
 Filmed: 2016-01-29
 Author: robnapier
-Image: http://i.imgur.com/5amYFcG.jpg?1
+Image: https://i.imgur.com/5amYFcG.jpg?1
 Title: Beyond Crusty: Real-World Protocols
 Curator: dimsumthinking, sylvinus
 Category: Frontend

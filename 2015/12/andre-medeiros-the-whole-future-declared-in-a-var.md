@@ -2,7 +2,7 @@ Conference: dotjs-2015
 Tags: JavaScript, Var
 Filmed: 2015-12-07
 Author: andrestaltz
-Image: http://i.imgur.com/81s4WKl.jpg?1
+Image: https://i.imgur.com/81s4WKl.jpg?1
 Title: The whole future declared in a var
 Curator: sylvinus
 Category: Frontend

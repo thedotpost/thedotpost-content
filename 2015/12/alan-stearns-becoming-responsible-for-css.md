@@ -2,7 +2,7 @@ Conference: dotcss-2015
 Tags: CSS
 Filmed: 2015-12-04
 Author: alanstearns
-Image: http://i.imgur.com/4cVmRDK.jpg?1
+Image: https://i.imgur.com/4cVmRDK.jpg?1
 Title: Becoming Responsible for CSS
 Curator: sylvinus
 Category: Frontend
