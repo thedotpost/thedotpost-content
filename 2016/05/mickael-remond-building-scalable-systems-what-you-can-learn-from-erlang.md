@@ -2,7 +2,7 @@ Conference: dotscale-2016
 Tags: Scale, Erlang
 Filmed: 2016-05-25
 Author: mickaelremond
-Image: https://farm2.staticflickr.com/1479/26055175413_190dc8a483_k_d.jpg
+Image: https://i.imgur.com/eaTAnIf.jpg
 Title: Building Scalable Systems: what you can learn from Erlang
 Curator: sylvinus
 Category: Backend
@@ -11,7 +11,6 @@ Slides: http://www.slideshare.net/slideshow/embed_code/key/1AaY25SsPkil9G
 Video: https://www.youtube.com/watch?v=VF-Oz19rzVE
 Template: talk
 Date: 2016-09-12 16:09:18
-Status: draft
 
 
 To dig deeper, here are a few links on Erlang's history from Joe Armstrong, one of its co-creators:
