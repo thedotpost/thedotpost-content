@@ -11,4 +11,3 @@ Slides: https://docs.google.com/presentation/d/1slXKAAX1e6ceDX9bdP2Kcm7zEEfSK9B6
 Video: https://www.youtube.com/watch?v=KdX51QJWQTA
 Template: talk
 Date: 2016-10-20 17:52:24
-Status: draft
