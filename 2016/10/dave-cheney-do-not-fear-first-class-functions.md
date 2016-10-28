@@ -11,4 +11,3 @@ Slides: http://dave.cheney.net/paste/do-not-fear-first-class-functions
 Video: https://www.youtube.com/watch?v=5buaPyJ0XeQ
 Template: talk
 Date: 2016-10-27 14:49:40
-Status: draft
