@@ -3,7 +3,7 @@ Tags: golang
 Filmed: 2016-10-10
 Author: jcinnamond
 Image: https://farm9.staticflickr.com/8132/30161637702_8aa93a7355_k_d.jpg
-Title: Theory
+Title: A Look at the Criticism of Go
 Curator: sylvinus
 Category: backend
 Summary: The past decade has seen an explosion of new programming languages, many of them bringing exciting ideas from the research community into the world of mainstream programming. And then there is Go. John looks at why Go is so frequently criticised by the programming languages community, why that might not matter, and how we can all learn from this.
