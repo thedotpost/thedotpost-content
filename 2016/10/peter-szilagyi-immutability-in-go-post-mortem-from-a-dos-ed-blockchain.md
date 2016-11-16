@@ -11,4 +11,3 @@ Slides: https://ethereum.karalabe.com/talks/2016-dotgo.html
 Video: https://www.youtube.com/watch?v=fNUx4jHTaIc
 Template: talk
 Date: 2016-11-03 15:55:21
-Status: draft
