@@ -7,7 +7,7 @@ Title: Make mobile programming fun (again)
 Curator: sylvinus
 Category: Backend
 Summary: Elias takes us on a quick tour of Go Mobile to see just how much of your mobile app can be in Go.
-Slides: https://eliasnaur-talks.appspot.com/gomobile-dotgo-2016.slide
+Slides: https://talks.godoc.org/github.com/eliasnaur/talks/gomobile-dotgo-2016.slide
 Video: https://www.youtube.com/watch?v=QfFwceFo97E
 Template: talk
 Date: 2016-11-03 16:09:30

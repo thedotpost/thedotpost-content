@@ -10,8 +10,7 @@ Summary: The past decade has seen an explosion of new programming languages, man
 Slides: https://speakerdeck.com/player/66bbc87b98e344889f3fff0b3fd5f697
 Video: https://www.youtube.com/watch?v=gHCtEjzZ-rY
 Template: talk
-Date: 2016-10-25 11:04:29
-Status: draft
+Date: 2016-11-18 11:04:29
 
 Full Transcript:
 
