@@ -10,8 +10,7 @@ Summary: Elias takes us on a quick tour of Go Mobile to see just how much of you
 Slides: https://talks.godoc.org/github.com/eliasnaur/talks/gomobile-dotgo-2016.slide
 Video: https://www.youtube.com/watch?v=QfFwceFo97E
 Template: talk
-Date: 2016-11-03 16:09:30
-Status: draft
+Date: 2016-11-24 12:09:30
 
 For quite a while, Go programmers have been able to export their Go package to mobile iOS and Android apps through Go Mobile.
 With recent additions to Go Mobile, the reverse is now possible: importing and using the platform Java or Objective C API directly from Go, as well as declaring custom Java or Objective C classes that are implemented in Go.
