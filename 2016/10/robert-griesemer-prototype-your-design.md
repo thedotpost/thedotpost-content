@@ -10,8 +10,7 @@ Summary: Prototyping remains an underappreciated technique in software design. I
 Slides: https://talks.golang.org/2016/prototype-your-design.pdf
 Video: https://www.youtube.com/watch?v=vLxX3yZmw5Q
 Template: talk
-Date: 2016-11-03 16:49:24
-Status: draft
+Date: 2016-11-29 12:49:24
 
 The complete talk text is here: [https://talks.golang.org/2016/prototype-your-design.txt](https://talks.golang.org/2016/prototype-your-design.txt)
 
