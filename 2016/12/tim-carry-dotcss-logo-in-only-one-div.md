@@ -6,7 +6,7 @@ Image: https://farm1.staticflickr.com/273/31359196742_afcee1e616_k_d.jpg
 Title: dotCSS logo in only one div
 Curator: sylvinus
 Category: Frontend
-Summary: What if we recreated the dotCSS logo with only CSS and one div. Tim uses some tricks involving invisible text, box-shadow, and line breaks.
+Summary: What if we recreated the dotCSS logo with only CSS and one div? Tim uses some tricks involving invisible text, box-shadow, and line breaks to achieve it.
 Slides: https://pixelastic.github.io/talk-dotcss-onediv/#/
 Video: https://www.youtube.com/watch?v=3z6JhjoG7nA
 Template: talk
