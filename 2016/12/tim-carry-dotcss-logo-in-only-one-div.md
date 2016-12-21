@@ -10,8 +10,7 @@ Summary: What if we recreated the dotCSS logo with only CSS and one div? Tim use
 Slides: https://pixelastic.github.io/talk-dotcss-onediv/#/
 Video: https://www.youtube.com/watch?v=3z6JhjoG7nA
 Template: talk
-Date: 2016-12-21 11:31:46
-Status: draft
+Date: 2016-12-19 11:31:46
 
 You can have a look at the code on GitHub: [https://github.com/pixelastic/dotcss-onediv](https://github.com/pixelastic/dotcss-onediv)
 The big yellow dot is made of a `:before` pseudo-element, with `border-radius:50%` and `position:absolute`.

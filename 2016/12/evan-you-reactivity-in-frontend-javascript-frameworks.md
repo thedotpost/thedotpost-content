@@ -10,5 +10,4 @@ Summary: With today’s modern JavaScript frameworks, we are used to the fact th
 Slides: https://docs.google.com/presentation/d/1_BlJxudppfKmAtfbNIcqNwzrC5vLrR_h1e09apcpdNY/present
 Video: https://www.youtube.com/watch?v=r4pNEdIt_l4
 Template: talk
-Date: 2016-12-19 10:44:18
-Status: draft
+Date: 2016-12-21 11:44:18

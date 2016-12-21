@@ -10,8 +10,7 @@ Summary: Virtual reality has come to the web! There are now browsers which work 
 Slides: https://ada.is/webvr/talk-dot-js.html?aslides#slide-bringing-vr-to-the-web
 Video: https://www.youtube.com/watch?v=ER2ynhAmIWQ
 Template: talk
-Date: 2016-12-19 11:19:13
-Status: draft
+Date: 2016-12-21 11:19:13
 
 The goal of this talk is to get developers thinking about how VR is going to impact the web and how they can do VR in a web-like way.
 
