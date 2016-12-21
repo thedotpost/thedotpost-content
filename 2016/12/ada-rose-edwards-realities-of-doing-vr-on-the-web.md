@@ -8,7 +8,7 @@ Curator: sylvinus
 Category: Backend
 Summary: Virtual reality has come to the web! There are now browsers which work inside Virtual Reality headsets. Ada explores how VR can make our websites better and what do we need to take into account to make immersive experiences on the Web.
 Slides: https://ada.is/webvr/talk-dot-js.html?aslides#slide-bringing-vr-to-the-web
-Video: https://www.youtube.com/watch?v=ER2ynhAmIWQ
+Video: https://www.youtube.com/watch?v=Xn4mkKCRWT4
 Template: talk
 Date: 2016-12-21 11:19:13
 
