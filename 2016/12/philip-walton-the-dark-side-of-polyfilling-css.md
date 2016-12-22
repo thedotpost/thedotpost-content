@@ -10,7 +10,6 @@ Summary: Writing polyfills for CSS is much harder than it might seem. As a resul
 Slides: https://philipwalton.github.io/talks/2016-12-02/
 Video: https://www.youtube.com/watch?v=ZskP7cvj3WA
 Template: talk
-Date: 2016-12-22 12:11:52
-Status: draft
+Date: 2016-12-22 17:11:52
 
 [https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/](https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/)
