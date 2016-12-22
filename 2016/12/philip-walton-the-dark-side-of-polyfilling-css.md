@@ -12,4 +12,4 @@ Video: https://www.youtube.com/watch?v=ZskP7cvj3WA
 Template: talk
 Date: 2016-12-22 17:11:52
 
-[https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/](https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/)
+For more, check out Philip's very thorough blog post: [https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/](https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/)
