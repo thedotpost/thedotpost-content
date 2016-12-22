@@ -10,8 +10,7 @@ Summary: We learn new stuff when we work on our projects. Let us use linters tog
 Slides: https://speakerdeck.com/player/a1234206ebc047f586a73176283c2df1
 Video: https://www.youtube.com/watch?v=HoDw-e77cD8
 Template: talk
-Date: 2016-12-19 11:40:45
-Status: draft
+Date: 2016-12-22 11:40:45
 
 ### Some links
 
