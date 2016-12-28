@@ -6,7 +6,7 @@ Image: https://farm6.staticflickr.com/5727/30277372295_7ce3af8c0e_k_d.jpg
 Title: Go machine learning at large scale
 Curator: sylvinus
 Category: Backend
-Summary: We're using Go to execute machine learning models in our live production systems. Franz points out challenges when training models in Go and why you should consider using other technologies.
+Summary: Go can be used to execute machine learning models in live production systems. Franz points out challenges when training models in Go and why you should consider using other technologies.
 Slides: https://speakerdeck.com/player/8266439d129a4e26a2ac208f886ec0ed
 Video: https://www.youtube.com/watch?v=_RQmCUk3SGY
 Template: talk
@@ -30,6 +30,7 @@ That’s why we went to generating code that just loads and interprets the model
 The second example is a logistic regression model where it is even easier, since we can simply export the model coefficients to Json and generate code that performs the computation at runtime.
 
 These examples may look like custom solutions, but the idea of executing a trained model using generated code can actually be applied to many different models once you know the particular format. And that has proven to be very successful for our purposes.
+
 Plus, it avoids using a full-blown machine learning library in Go and uses Go where it really shines.
 
 Thanks!

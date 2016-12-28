@@ -6,7 +6,7 @@ Image: https://farm6.staticflickr.com/5691/30277375075_01456c42b0_k_d.jpg
 Title: A QUIC server implementation in Go
 Curator: sylvinus
 Category: Backend
-Summary: Introduction to QUIC, a replacement for TCP+TLS proposed by Google, and its first implementation in Go.
+Summary: Lucas introduces QUIC, a replacement for TCP+TLS proposed by Google, and its first implementation in Go.
 Slides: https://clemente.io/QUIC_dotgo_slides.pdf
 Video: https://www.youtube.com/watch?v=BvpRBdWwecU[A
 Template: talk

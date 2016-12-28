@@ -6,7 +6,7 @@ Image: http://i.imgur.com/h4oP9LH.jpg
 Title: Using Go to Guide API Design Decisions
 Curator: sylvinus
 Category: Backend
-Summary: Two years ago dnsimple team started a major redesign of their public API, and the Go language played a key role in the process. In this talk you'll discover why Go was so important to them and why it was used to guide the development design decisions.
+Summary: Two years ago, the DNSimple team started a major redesign of their public API, and the Go language played a key role in the process. Simone explains why Go was so important to them and why it was used to guide the development design decisions.
 Slides: https://speakerdeck.com/player/fc2cc1c53efc4d7ab9682305bcde4f0e
 Video: https://www.youtube.com/watch?v=NWNEjC4Y4X4
 Template: talk

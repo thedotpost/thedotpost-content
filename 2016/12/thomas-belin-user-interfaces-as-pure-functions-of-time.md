@@ -6,16 +6,16 @@ Image: https://farm6.staticflickr.com/5496/31115229670_a18b4951da_k_d.jpg
 Title: User Interfaces as Pure Functions of Time
 Curator: sylvinus
 Category: Backend
-Summary: Let’s try to understand how Cycle.js and Functional Reactive Programming can help us define User Interfaces as Pure Functions of Time by trying to model a Lightning Talk.
+Summary: Thomas explains how Cycle.js and Functional Reactive Programming can help us define User Interfaces as Pure Functions of Time by trying to model a Lightning Talk.
 Slides: http://blog.thomasbelin.fr/talks/dotjs-ui-as-pure-functions-of-time/
 Video: https://www.youtube.com/watch?v=9BG0Y3C6WqM
 Template: talk
 Date: 2016-12-27 14:54:22
 Status: draft
 
-[https://cycle.js.org/](https://cycle.js.org/)
+To learn more, check out [Cycle.js](https://cycle.js.org/)
 
-### Transcript :
+### Full transcript :
 
 Let's take a minute to think about what is happening here, at this very moment in this very room.
 And because we are developers and we love to model reality, let's try to model a Lightning talk.

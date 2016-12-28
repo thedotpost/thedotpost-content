@@ -6,7 +6,7 @@ Image: https://farm6.staticflickr.com/5577/30677526913_2ee19dac11_k_d.jpg
 Title: Service Worker and the Appification of the Web
 Curator: sylvinus
 Category: Backend
-Summary: Service Workers are part of the ongoing movement to “move the web forward.” But what exactly does that phrase mean, and how do Service Workers fit into it? Nolan Lawson of the Microsoft Edge team explores this question, with a look at the web’s history as well as where it might be heading.
+Summary: Service Workers are part of the ongoing movement to “move the web forward.” But what exactly does that phrase mean, and how do Service Workers fit into it? Nolan explores this question, with a look at the web’s history as well as where it might be heading.
 Slides: https://nolanlawson.github.io/dotjs-2016
 Video: https://www.youtube.com/watch?v=ZVL6FeCJdD8
 Template: talk

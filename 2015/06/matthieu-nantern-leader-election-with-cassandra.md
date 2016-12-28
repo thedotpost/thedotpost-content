@@ -13,7 +13,6 @@ Template: talk
 Date: 2015-06-25 13:48:57
 Status: draft
 
-
 Full transcript:
 
 Slide 1:
@@ -36,7 +35,7 @@ So now that we have seen the theory how to implement leader election with Cassan
 Slide 2:
 Lightweight transaction can be used with INSERT using the IF clause.
 
-A client acquires a lock by issuing the first statement. If he's the first one the statement is applied and he has the lock. 
+A client acquires a lock by issuing the first statement. If he's the first one the statement is applied and he has the lock.
 If the lease already exists and is held by someone else we get back the information that the statement was not applied.
 
 We can elect leaders with this approach by having nodes that want to become master try to grab the lease on start. Cassandra will return the same result to all clients except for the one that was elected leader.
