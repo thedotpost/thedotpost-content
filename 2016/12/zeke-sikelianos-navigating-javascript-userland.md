@@ -3,7 +3,7 @@ Tags: JavaScript
 Filmed: 2016-12-05
 Author: zeke
 Image: https://farm6.staticflickr.com/5573/30677501413_eb64a01b29_k_d.jpg
-Title: JavaScript Userland
+Title: Navigating JavaScript Userland
 Curator: sylvinus
 Category: Backend
 Summary: So much innovation is happening in the JavaScript world, and hundreds of new packages are published to the npm package registry every day. In this talk Zeke covers some tools and techniques for navigating userland, discovering new things, and learning how to pick the right modules for your projects.

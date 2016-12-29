@@ -11,7 +11,6 @@ Slides: http://www.slideshare.net/slideshow/embed_code/key/6lRKcQtkO6Dlst
 Video: https://www.youtube.com/watch?v=KaqBmuaOGwg
 Template: talk
 Date: 2016-12-23 17:04:28
-Status: draft
 
 
 "Code like it's 1999."

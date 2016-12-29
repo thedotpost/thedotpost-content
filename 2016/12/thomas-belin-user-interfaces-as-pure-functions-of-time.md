@@ -15,7 +15,7 @@ Status: draft
 
 To learn more, check out [Cycle.js](https://cycle.js.org/)
 
-### Full transcript :
+### Full transcript:
 
 Let's take a minute to think about what is happening here, at this very moment in this very room.
 And because we are developers and we love to model reality, let's try to model a Lightning talk.
