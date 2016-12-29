@@ -11,7 +11,6 @@ Slides: http://slides.com/timpietrusky/livejs-dotjs-2016
 Video: https://www.youtube.com/watch?v=GA7-OfYSzvA
 Template: talk
 Date: 2016-12-29 14:43:57
-Status: draft
 
 Find some informations about their resources and setup <a href="https://github.com/livejs/dotjs2016" target="_blank">here</a>.
 
