@@ -11,7 +11,6 @@ Slides: http://blog.thomasbelin.fr/talks/dotjs-ui-as-pure-functions-of-time/
 Video: https://www.youtube.com/watch?v=9BG0Y3C6WqM
 Template: talk
 Date: 2016-12-27 14:54:22
-Status: draft
 
 To learn more, check out [Cycle.js](https://cycle.js.org/)
 
