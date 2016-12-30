@@ -10,7 +10,6 @@ Summary: This lightning talk is call for more diversity in web design. Limiting 
 Slides: https://cssence.github.io/slides-dotcss2016/
 Video: https://www.youtube.com/watch?v=JaYNrmH7Oyg
 Template: talk
-Date: 2016-12-19 12:08:48
-Status: draft
+Date: 2016-12-30 12:08:48
 
 Websites have become boring. The fun project [http://adventurega.me/bootstrap/](http://adventurega.me/bootstrap/) by Jeremy Karbowski summarizes the issue at hand. It’s time to reverse that trend!
