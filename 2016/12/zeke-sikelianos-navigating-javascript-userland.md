@@ -8,7 +8,7 @@ Curator: sylvinus
 Category: Backend
 Summary: So much innovation is happening in the JavaScript world, and hundreds of new packages are published to the npm package registry every day. In this talk Zeke covers some tools and techniques for navigating userland, discovering new things, and learning how to pick the right modules for your projects.
 Slides: https://github.com/zeke/javascript-userland
-Video: https://www.youtube.com/watch?v=S8NCuwg8Ywo
+Video: https://www.youtube.com/watch?v=rKWHS2cfcAw
 Template: talk
 Date: 2017-01-04 11:09:50
 
