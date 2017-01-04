@@ -10,8 +10,7 @@ Summary: So much innovation is happening in the JavaScript world, and hundreds o
 Slides: https://github.com/zeke/javascript-userland
 Video: https://www.youtube.com/watch?v=S8NCuwg8Ywo
 Template: talk
-Date: 2016-12-19 11:09:50
-Status: draft
+Date: 2017-01-04 11:09:50
 
 ### Web Tools
 
