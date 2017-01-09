@@ -10,8 +10,7 @@ Summary: Service Workers are part of the ongoing movement to “move the web for
 Slides: https://nolanlawson.github.io/dotjs-2016
 Video: https://www.youtube.com/watch?v=ZVL6FeCJdD8
 Template: talk
-Date: 2016-12-27 11:46:18
-Status: draft
+Date: 2017-01-09 13:36:18
 
 Resources and references from the video for those who would like to learn more:
 
