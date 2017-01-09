@@ -10,4 +10,4 @@ Summary: Kelsey demonstrates how self-contained Go binaries allow us to treat th
 Slides: https://docs.google.com/presentation/d/1nEHR3EolR-IPySJPUvqmabIo0WcZc6Z5RvG_F6EG8rc/present
 Video: https://www.youtube.com/watch?v=nhmAyZNlECw
 Template: talk
-Date: 2017-01-09 11:30:02
+Date: 2017-01-09 11:30:03
