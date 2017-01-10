@@ -10,8 +10,7 @@ Summary: Go is a great general purpose programming language and it is thus no su
 Slides: https://talks.godoc.org/github.com/sbinet/talks/2016/20161010-dotgo-pygo/talk.slide
 Video: https://www.youtube.com/watch?v=MWZrZH9Xz84
 Template: talk
-Date: 2016-10-25 10:33:12
-Status: draft
+Date: 2017-01-10 12:20:28
 
 Go is a great general purpose programming language and it is thus no surprise it can be a great fit for science work.
 Indeed, Go provides an efficient and quick edit/compile/run development cycle, while being also reasonably fast at runtime.
