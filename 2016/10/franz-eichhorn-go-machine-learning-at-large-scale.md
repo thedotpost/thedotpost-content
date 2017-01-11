@@ -10,8 +10,8 @@ Summary: Go can be used to execute machine learning models in live production sy
 Slides: https://speakerdeck.com/player/8266439d129a4e26a2ac208f886ec0ed
 Video: https://www.youtube.com/watch?v=_RQmCUk3SGY
 Template: talk
-Date: 2016-12-27 10:27:33
-Status: draft
+Date: 2017-01-11 12:27:33
+
 
 ### Transcript:
 
