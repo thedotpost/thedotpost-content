@@ -10,8 +10,7 @@ Summary: What’s your IDE? Bertrand's is WebVim, a vim-based distribution for J
 Slides: http://krampstudio.com/webvim-overview/
 Video: https://www.youtube.com/watch?v=2AHU8dQyG6Q
 Template: talk
-Date: 2016-12-27 14:42:44
-Status: draft
+Date: 2017-01-17 14:42:44
 
 When Bertrand started using JavaScript the tooling was mostly inexistent. It was hard to find tools to help you being more productive so he started to use vim. He selected a plugin manager, tested and configured plugins, added some dynamic configuration, etc.
 
