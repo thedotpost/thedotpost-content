@@ -10,5 +10,4 @@ Summary: Go's tools can help you diagnose problems with your applications—if y
 Slides: https://speakerdeck.com/player/8f43f46bfbca4b2ca13ca52d0221b9ea
 Video: https://www.youtube.com/watch?v=mmqDlbWk_XA
 Template: talk
-Date: 2016-12-19 14:19:31
-Status: draft
+Date: 2017-01-17 11:19:31
