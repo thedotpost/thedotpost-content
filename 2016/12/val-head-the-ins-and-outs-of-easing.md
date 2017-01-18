@@ -10,6 +10,4 @@ Summary: We use easing all the time in web animation, but we don't always know w
 Slides: http://www.slideshare.net/slideshow/embed_code/key/IGUFpzaLVUo3sX
 Video: https://www.youtube.com/watch?v=K4oORp42FxA
 Template: talk
-Date: 2017-01-13 13:44:51
-Status: draft
-
+Date: 2017-01-18 13:44:51
