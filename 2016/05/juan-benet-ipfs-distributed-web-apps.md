@@ -10,8 +10,7 @@ Summary: Juan presents his project IPFS (the InterPlanetary File System), a new 
 Slides: https://speakerdeck.com/player/930adec374974bacbd3c8f24d6ba1b7d
 Video: https://www.youtube.com/watch?v=_qzPUlNoC0E
 Template: talk
-Date: 2017-01-13 15:21:56
-Status: draft
+Date: 2017-01-20 10:21:56
 
 
 # IPFS: Distributed Web Apps @ dotScale 2016
