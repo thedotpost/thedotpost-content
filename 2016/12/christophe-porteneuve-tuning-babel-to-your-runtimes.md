@@ -10,8 +10,7 @@ Summary: Babel is amazing, and we all use it to get the latest language goodies 
 Slides: http://bit.ly/dotjs-babel-tuning
 Video: https://www.youtube.com/watch?v=fb_1cqg8TKc
 Template: talk
-Date: 2017-01-12 17:41:31
-Status: draft
+Date: 2017-01-20 11:41:31
 
 ### Extra links:
 
