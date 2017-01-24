@@ -10,8 +10,7 @@ Summary: What does the future of code execution look like on the web? 2017 will 
 Slides: http://www.slideshare.net/slideshow/embed_code/key/LGxzjVtdqfckfq
 Video: https://www.youtube.com/watch?v=8AvKRFhwOkk
 Template: talk
-Date: 2017-01-06 15:03:25
-Status: draft
+Date: 2017-01-24 13:03:25
 
 
 ### Some links:
