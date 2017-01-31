@@ -10,7 +10,6 @@ Summary: Sure, everyone uses WebFonts now. But are you using the full capabiliti
 Slides: https://www.w3.org/Talks/2016/font-level-up/powerup#intro
 Video: https://www.youtube.com/watch?v=SBz54Wt65Fs
 Template: talk
-Date: 2017-01-13 14:03:41
-Status: draft
+Date: 2017-01-31 13:03:41
 
 Full source (HTML, CSS, JS, SVG) for the slides: [https://github.com/svgeesus/font-level-up](https://github.com/svgeesus/font-level-up)
