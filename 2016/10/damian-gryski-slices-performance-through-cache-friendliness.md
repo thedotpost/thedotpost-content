@@ -10,5 +10,4 @@ Summary: Modern computers have multiple layers of caches between the processor a
 Slides: https://go-talks.appspot.com/github.com/dgryski/talks/dotgo-2016/slices.slide#1
 Video: https://www.youtube.com/watch?v=jEG4Qyo_4Bc
 Template: talk
-Date: 2017-01-13 14:27:45
-Status: draft
+Date: 2017-02-01 12:27:45
