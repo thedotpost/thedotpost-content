@@ -10,8 +10,7 @@ Summary: As we all know, everything rendered out of CSS is in a box model. That 
 Slides: https://www.dropbox.com/s/70f04lpkv7rkweo/dotCSS_presentation.pdf?dl=0
 Video: https://www.youtube.com/watch?v=Y0_FMCji3iE
 Template: talk
-Date: 2017-01-13 13:35:14
-Status: draft
+Date: 2017-02-14 11:35:14
 
 ### Links
 
