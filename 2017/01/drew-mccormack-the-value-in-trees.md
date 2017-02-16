@@ -4,7 +4,7 @@ Filmed: 2017-01-27
 Author: drewmccormack
 Image: https://farm1.staticflickr.com/694/32286401420_18f24607a1_k_d.jpg
 Title: The Value in Trees
-Curator: sylvinus
+Curator: dimsumthinking, sylvinus
 Category: Frontend
 Summary: Swift introduces new ways to model data through value types like structs and enums. Drew discusses his experiences rewriting the data model of the vector graphics app Sketch to use value trees, and finishes off pondering whether future data modelling frameworks could be based on value trees, rather than entities and relationships. To that end, he also introduces the experimental project Impeller (https://github.com/mentalfaculty/impeller).
 Slides: http://www.slideshare.net/slideshow/embed_code/key/zrneZ01bq4Mwnr

@@ -4,7 +4,7 @@ Filmed: 2017-01-27
 Author: huguesbernetrollande
 Image: https://farm1.staticflickr.com/683/31822548284_11c1ac9a70_k_d.jpg
 Title: IoT and iOS - Lessons Learned
-Curator: sylvinus
+Curator: dimsumthinking, sylvinus
 Category: Frontend
 Summary: After two years working on Connected Devices (IoT) on iOS, Hugues shares what he learned and best practices.
 Slides: https://speakerdeck.com/player/6c058162a3314c94a790e0198d237b0b
