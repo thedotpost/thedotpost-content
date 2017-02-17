@@ -10,8 +10,7 @@ Summary: What if you could reuse all the unit tested React components that you w
 Slides: https://speakerdeck.com/player/b9faea2ddaf64e23a36ce9fede6732cd
 Video: https://www.youtube.com/watch?v=WpPc8MyYC5k
 Template: talk
-Date: 2017-01-06 16:26:23
-Status: draft
+Date: 2017-02-17 11:26:23
 
 
 ### Transcript: 
