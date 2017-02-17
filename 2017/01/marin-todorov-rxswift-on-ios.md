@@ -10,8 +10,7 @@ Summary: In this video Marin introduces in plain speech some of the benefits of 
 Slides: https://speakerdeck.com/player/702021dcf47e47988b8ef3d95f10c66c
 Video: https://www.youtube.com/watch?v=vwpdcMsccIY
 Template: talk
-Date: 2017-02-16 14:15:08
-Status: draft
+Date: 2017-02-17 14:15:08
 
 While RxSwift takes care of a multitude of aspects of asynchronous programming on iOS, the biggest win, the main outtake (according to Marin) is that the code is written and reads very sequentially. This feature of Rx code decreases considerably the complexity of asynchronous code in comparison to traditional Cocoa code, which is often spread across multiple files and classes and executed in arbitrary order.
 
