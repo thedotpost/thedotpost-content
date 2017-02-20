@@ -10,8 +10,7 @@ Summary: Two years ago, the DNSimple team started a major redesign of their publ
 Slides: https://speakerdeck.com/player/fc2cc1c53efc4d7ab9682305bcde4f0e
 Video: https://www.youtube.com/watch?v=NWNEjC4Y4X4
 Template: talk
-Date: 2016-12-23 14:47:38
-Status: draft
+Date: 2017-02-20 14:47:38
 
 
 Two years ago, at DNSimple, we started to redesign our HTTP API, along with official clients for several languages.
