@@ -6,12 +6,11 @@ Image: https://farm1.staticflickr.com/694/32286401420_18f24607a1_k_d.jpg
 Title: The Value in Trees
 Curator: dimsumthinking, sylvinus
 Category: Frontend
-Summary: Swift introduces new ways to model data through value types like structs and enums. Drew discusses his experiences rewriting the data model of the vector graphics app Sketch to use value trees, and finishes off pondering whether future data modelling frameworks could be based on value trees, rather than entities and relationships. To that end, he also introduces the experimental project Impeller (https://github.com/mentalfaculty/impeller).
+Summary: Swift introduces new ways to model data through value types like structs and enums. Drew discusses his experiences rewriting the data model of the vector graphics app Sketch to use value trees, and finishes off pondering whether future data modelling frameworks could be based on value trees, rather than entities and relationships. To that end, he also introduces the experimental project Impeller [https://github.com/mentalfaculty/impeller](https://github.com/mentalfaculty/impeller).
 Slides: http://www.slideshare.net/slideshow/embed_code/key/zrneZ01bq4Mwnr
 Video: https://www.youtube.com/watch?v=8jwGDHHLEpI
 Template: talk
-Date: 2017-02-16 14:40:41
-Status: draft
+Date: 2017-02-22 14:0:41
 
 Value types like structs and enums play an important role in Swift development, and have a number of advantages over classes for model data. Because they are generally stored in stack memory, they don't incur the cost of allocation and deallocation associated with heap memory. They also do not have to be garbage collected or reference counted, which adds to the performance benefits.
 
