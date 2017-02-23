@@ -10,5 +10,4 @@ Summary: In the Objective-C kingdom, the evil Queen NSObject was reigning over h
 Slides: https://speakerdeck.com/player/f6e25eddfd9c462fa4d98453546d330f
 Video: https://www.youtube.com/watch?v=SWWK9e7xUxw
 Template: talk
-Date: 2017-02-16 15:22:58
-Status: draft
+Date: 2017-02-23 11:22:58
