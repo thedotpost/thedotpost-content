@@ -10,4 +10,4 @@ Summary: Dimitri describes a pattern used in their ‘struct’ objects to have 
 Slides: https://speakerdeck.com/player/0c6a0ff78eba47308efa9c4f5c3e3813
 Video: https://www.youtube.com/watch?v=tQwenFIYzUg
 Template: talk
-Date: 2017-02-27 11:52:35
+Date: 2017-02-27 10:52:35
