@@ -10,8 +10,7 @@ Summary: In this talk, Karoly describes several ways to implement the same simpl
 Slides: https://speakerdeck.com/player/92b3584fe5a24da78acc000411883c04
 Video: https://www.youtube.com/watch?v=UdZP6JeTCkM
 Template: talk
-Date: 2017-02-16 15:06:37
-Status: draft
+Date: 2017-03-14 11:06:37
 
 The full source code behind the talk is available as a GitHub repository:
 
