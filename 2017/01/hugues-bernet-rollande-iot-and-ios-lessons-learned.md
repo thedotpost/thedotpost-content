@@ -10,8 +10,7 @@ Summary: After two years working on Connected Devices (IoT) on iOS, Hugues share
 Slides: https://speakerdeck.com/player/6c058162a3314c94a790e0198d237b0b
 Video: https://www.youtube.com/watch?v=m8yN9q_EpQ4
 Template: talk
-Date: 2017-02-16 15:38:45
-Status: draft
+Date: 2017-03-17 11:18:45
 
 Developing an iOS App which connect to a BLE device can be tedious. BLE connectivity is limited when working in Xcode Simulator and debugging can be tricky. Hugues shares some tips that help having a faster and most robust development cycle:
 * Implementing Unit Tests to validate your BLE data transformation
