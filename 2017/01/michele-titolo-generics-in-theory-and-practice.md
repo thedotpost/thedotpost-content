@@ -10,5 +10,4 @@ Summary: Generics are one of the features of Swift that set it apart from many o
 Slides: https://www.slideshare.net/slideshow/embed_code/key/C8i6po4PG49Z6c
 Video: https://www.youtube.com/watch?v=eExr8xIU9k0
 Template: talk
-Date: 2017-02-24 10:11:39
-Status: draft
+Date: 2017-03-21 10:11:39
